@@ -1,0 +1,1189 @@
+{VERSION 2021 0 "Windows 10" "2021.0" }
+{USTYLETAB {PSTYLE "Heading 1" -1 3 1 {CSTYLE "" -1 -1 "Times" 1 18 0
+ 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{PSTYLE "Ord
+ered List 5205" -1 200 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2
+ 2 2 1 0 0 1 }1 1 0 0 3 3 2 144 2 0 2 2 -1 1 }{PSTYLE "Warning" -1 7 1
+ {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 
+0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Left Justified Maple Output" -1 12 1 
+{CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0
+ 2 0 2 0 2 2 -1 1 }{PSTYLE "Fixed Width" -1 17 1 {CSTYLE "" -1 -1 "Cou
+rier" 1 10 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Help" -1 10 1 {CSTYLE "" -1 -1 "Courier" 1 9 0 0 255 1 2 2 2 
+2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 4" -1 20
+ 1 {CSTYLE "" -1 -1 "Times" 1 10 0 0 0 1 1 1 2 2 2 2 1 0 0 1 }1 1 0 0 
+0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Line Printed Output" -1 6 1 {CSTYLE "" 
+-1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 
+0 2 2 -1 1 }{PSTYLE "Text Output6200" -1 201 1 {CSTYLE "" -1 -1 "Couri
+er" 1 10 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Heading 2" -1 4 1 {CSTYLE "" -1 -1 "Times" 1 14 0 0 0 1 2 1 2
+ 2 2 2 1 0 0 1 }1 1 0 0 8 2 2 0 2 0 2 2 -1 1 }{PSTYLE "Maple Output" 
+-1 11 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1
+ 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Text Output6" -1 202 1 {CSTYLE "" 
+-1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 
+0 2 2 -1 1 }{PSTYLE "Heading 3" -1 5 1 {CSTYLE "" -1 -1 "Times" 1 12 0
+ 0 0 1 1 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Dia
+gnostic" -1 9 1 {CSTYLE "" -1 -1 "Courier" 1 10 64 128 64 1 2 2 2 2 2 
+1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Ordered List 1" -1 
+203 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0
+ 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE "Text Output" -1 2 1 {CSTYLE "" -1 -1
+ "Courier" 1 10 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2
+ -1 1 }{PSTYLE "Ordered List 2" -1 204 1 {CSTYLE "" -1 -1 "Times" 1 12
+ 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 36 2 0 2 2 -1 1 }{PSTYLE "
+Ordered List 3" -1 205 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2
+ 2 2 1 0 0 1 }1 1 0 0 3 3 2 72 2 0 2 2 -1 1 }{PSTYLE "Ordered List 4" 
+-1 206 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 
+1 0 0 3 3 2 108 2 0 2 2 -1 1 }{PSTYLE "Ordered List 5" -1 207 1 
+{CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3
+ 2 144 2 0 2 2 -1 1 }{PSTYLE "Annotation Title" -1 208 1 {CSTYLE "" -1
+ -1 "Times" 1 18 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }3 1 0 0 12 12 2 0 2 0 2 
+2 -1 1 }{PSTYLE "HyperlinkError" -1 209 1 {CSTYLE "" -1 -1 "Courier Ne
+w" 1 12 255 0 255 1 2 2 1 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 
+}{PSTYLE "HyperlinkWarning" -1 210 1 {CSTYLE "" -1 -1 "Courier New" 1 
+12 0 0 255 1 2 2 1 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Ordered List 3203" -1 211 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0
+ 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 72 2 0 2 2 -1 1 }{PSTYLE "Hype
+rlinkError207" -1 212 1 {CSTYLE "" -1 -1 "Courier New" 1 12 255 0 255 
+1 2 2 1 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Ordered \+
+List 1201" -1 213 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 
+1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE "Bullet Item" -1 15 1 
+{CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3
+ 2 0 2 0 2 2 -1 1 }{PSTYLE "Maple Plot" -1 13 1 {CSTYLE "" -1 -1 "Time
+s" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "List Item" -1 14 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 
+2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE "Dash Item" -1 
+16 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 
+0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE "Error" -1 8 1 {CSTYLE "" -1 -1 "Couri
+er" 1 10 255 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1
+ }{PSTYLE "Title" -1 18 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 1 
+2 2 2 1 0 0 1 }3 1 0 0 12 12 2 0 2 0 2 2 -1 1 }{PSTYLE "HyperlinkWarni
+ng208" -1 214 1 {CSTYLE "" -1 -1 "Courier New" 1 12 0 0 255 1 2 2 1 2 
+2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Normal" -1 0 1 
+{CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0
+ 2 0 2 0 2 2 -1 1 }{PSTYLE "Annotation Title206" -1 215 1 {CSTYLE "" 
+-1 -1 "Times" 1 18 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }3 1 0 0 12 12 2 0 2 0 
+2 2 -1 1 }{PSTYLE "Author" -1 19 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0
+ 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 8 8 2 0 2 0 2 2 -1 1 }{PSTYLE "Ordered
+ List 2202" -1 216 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2
+ 1 0 0 1 }1 1 0 0 3 3 2 36 2 0 2 2 -1 1 }{PSTYLE "Ordered List 4204" 
+-1 217 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 
+1 0 0 3 3 2 108 2 0 2 2 -1 1 }{CSTYLE "Help Variable" -1 25 "Courier" 
+1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Small209212"
+ -1 200 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Ital
+ic Small8" -1 201 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Ma
+ple Comment" -1 21 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE
+ "2D Math Italic Small209209" -1 202 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0
+ 0 0 1 }{CSTYLE "Popup" -1 31 "Times" 1 12 0 128 128 1 1 2 1 2 2 2 0 0
+ 0 1 }{CSTYLE "Atomic Variable" -1 203 "Times" 1 12 175 0 175 1 1 2 2 
+2 2 2 0 0 0 1 }{CSTYLE "Plot Text" -1 28 "Times" 1 8 0 0 0 1 2 2 2 2 2
+ 2 0 0 0 1 }{CSTYLE "Caption Text219" -1 204 "Times" 1 12 0 0 0 1 2 1 
+2 2 2 2 0 0 0 1 }{CSTYLE "Code" -1 205 "Courier New" 1 12 255 0 0 1 2 
+2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic" -1 3 "Times" 1 12 0 0 0 1 
+1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Small" -1 7 "Times" 1 1 0 0 0 1 
+2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Small206206" -1 206 "Time
+s" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Bold Small" -1 10
+ "Times" 1 1 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Bold" -1 39 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Menus" -1 36 "Ti
+mes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Normal" -1 30 "Ti
+mes" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Small20
+7211" -1 207 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Maple I
+nput" -1 0 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 0 0 0 1 }{CSTYLE "Head
+er and Footer" -1 208 "Times" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "2D Math Italic Small204" -1 209 "Times" 1 1 0 0 0 1 1 2 2 2 2
+ 2 0 0 0 1 }{CSTYLE "2D Math Italic Small207208" -1 210 "Times" 1 1 0 
+0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Small206" -1 211 "T
+imes" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Output Labels" -1 29 "
+Times" 1 8 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Small2
+05" -1 212 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Note
+s" -1 37 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math It
+alic Small208209215" -1 213 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "Help Underlined" -1 44 "Times" 1 12 0 0 0 1 2 2 1 2 2 2 0 0 0
+ 1 }{CSTYLE "2D Math Italic Small208209217" -1 214 "Times" 1 1 0 0 0 1
+ 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Small208" -1 215 "Times"
+ 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Small207" -1
+ 216 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic \+
+Small209" -1 217 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Hea
+der and Footer203" -1 218 "Times" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "Text" -1 219 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "Plot Title" -1 27 "Times" 1 10 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "Default" -1 38 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "Help Italic Bold" -1 40 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 
+0 1 }{CSTYLE "Maple Input Placeholder" -1 220 "Courier New" 1 12 200 0
+ 200 1 2 1 2 2 1 2 0 0 0 1 }{CSTYLE "LaTeX" -1 32 "Times" 1 12 0 0 0 1
+ 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Small204204" -1 221 "Tim
+es" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Emphasized" -1 22 "
+Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Equation Label" -1 
+222 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Italic" -1
+ 42 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Prompt" -1 1 "C
+ourier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Bold" -1 5 
+"Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Hyperlink" -1 17 "T
+imes" 1 12 0 128 128 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "Caption Text" -1 
+223 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic \+
+Small209212212" -1 224 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "Help Underlined Bold" -1 41 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 
+0 0 0 1 }{CSTYLE "Copyright" -1 34 "Times" 1 10 0 0 0 1 2 2 2 2 2 2 0 
+0 0 1 }{CSTYLE "2D Math Italic Small205207" -1 225 "Times" 1 1 0 0 0 1
+ 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Dictionary Hyperlink" -1 45 "Times" 1 
+12 147 0 15 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "2D Input" -1 19 "Times" 1 
+12 255 0 0 1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE "Equation Label218" -1 226 "
+Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Maple Input Placehol
+der216" -1 227 "Courier New" 1 12 200 0 200 1 2 1 2 2 1 2 0 0 0 1 }
+{CSTYLE "2D Math Italic Small207208205" -1 228 "Times" 1 1 0 0 0 1 1 2
+ 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Small233" -1 229 "Times" 1 1
+ 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Small232" -1 230
+ "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Heading" -1 26
+ "Times" 1 14 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Output" -1 20 "
+Times" 1 12 0 0 255 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Inert Output" 
+-1 231 "Times" 1 12 144 144 144 1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE "Page N
+umber" -1 33 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help F
+ixed" -1 23 "Courier" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Capti
+on Reference215" -1 232 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "Atomic Variable200" -1 233 "Times" 1 12 175 0 175 1 1 2 2 2 2
+ 2 0 0 0 1 }{CSTYLE "2D Math Italic Small" -1 234 "Times" 1 1 0 0 0 1 
+1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Symbol 2" -1 16 "Times" 1 12 0 0
+ 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Code201" -1 235 "Courier New" 1 12 
+255 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Text214" -1 236 "Times" 1 12 0
+ 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math" -1 2 "Times" 1 12 0 0 0 
+1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Nonterminal" -1 24 "Courier" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Small20820921520
+8" -1 237 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Annotation
+ Text" -1 238 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help \+
+Maple Name" -1 35 "Times" 1 12 104 64 92 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "Help Underlined Italic" -1 43 "Times" 1 12 0 0 0 1 1 2 1 2 2 
+2 0 0 0 1 }{CSTYLE "2D Math Italic Small208210" -1 239 "Times" 1 1 0 0
+ 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Caption Reference" -1 240 "Times" 1
+ 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Small208209" 
+-1 241 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Annotation Te
+xt213" -1 242 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D In
+ert Output202" -1 243 "Times" 1 12 144 144 144 1 2 2 2 2 1 2 0 0 0 1 }
+{CSTYLE "2D Comment" -1 18 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }}
+
+{SECT 0 {EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 
+"> " 0 "" {XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:-mo(\" \", math
+variant = \"normal\", fence = \"false\", separator = \"false\", stretc
+hy = \"false\", symmetric = \"false\", largeop = \"false\", movablelim
+its = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.
+0em\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6#-I#m
+oGF$6-Q\"~F'/%,mathvariantGQ'normalF'/%&fenceGQ&falseF'/%*separatorGF4
+/%)stretchyGF4/%*symmetricGF4/%(largeopGF4/%.movablelimitsGF4/%'accent
+GF4/%'lspaceGQ&0.0emF'/%'rspaceGFC" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 58 "ShowCube := proc(a::list,cubes3d::Array,stickers::Arr
+ay);\n" }{MPLTEXT 1 0 17 "    with(plots):\n" }{MPLTEXT 1 0 5 "    \n"
+ }{MPLTEXT 1 0 14 "    l:=0.499;\n" }{MPLTEXT 1 0 27 "    for i in [-1
+, 0, 1] do\n" }{MPLTEXT 1 0 31 "        for j in [-1, 0, 1] do\n" }
+{MPLTEXT 1 0 40 "            for k in [-1, 0, 1] do     \n" }{MPLTEXT 
+1 0 102 "                cubes3d[i+1,j+1,k+1]:=plottools[cuboid]([-l+i
+,-l+j,-l+k],[l+i,l+j,l+k], color=black);\n" }{MPLTEXT 1 0 20 "        \+
+    end do:\n" }{MPLTEXT 1 0 16 "        end do:\n" }{MPLTEXT 1 0 12 "
+    end do:\n" }{MPLTEXT 1 0 13 "    cubes3d;\n" }{MPLTEXT 1 0 21 "   \+
+ with(ListTools):\n" }{MPLTEXT 1 0 5 "    \n" }{MPLTEXT 1 0 13 "    l:
+=0.43;\n" }{MPLTEXT 1 0 58 "    point:=[[l,-l,1.5],[-l,-l,1.5],[-l,l,1
+.5],[l,l,1.5]];\n" }{MPLTEXT 1 0 27 "    for i in [-1, 0, 1] do\n" }
+{MPLTEXT 1 0 31 "        for j in [-1, 0, 1] do\n" }{MPLTEXT 1 0 34 " \+
+           point_t:=copy(point);\n" }{MPLTEXT 1 0 33 "            for \+
+k from 1 to 4 do\n" }{MPLTEXT 1 0 46 "                point_t[k,1]:=po
+int_t[k,1]+i;\n" }{MPLTEXT 1 0 47 "                point_t[k,2]:=point
+_t[k,2]+j; \n" }{MPLTEXT 1 0 20 "            end do:\n" }{MPLTEXT 1 0 
+67 "            stickers[0,i+1,j+1]:=POLYGONS(point_t, a[1][i+2,j+2]);
+\n" }{MPLTEXT 1 0 16 "        end do:\n" }{MPLTEXT 1 0 12 "    end do:
+\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 58 "    point:=[[l,1.5,-l],[-l,
+1.5,-l],[-l,1.5,l],[l,1.5,l]];\n" }{MPLTEXT 1 0 27 "    for i in [-1, \+
+0, 1] do\n" }{MPLTEXT 1 0 31 "        for j in [-1, 0, 1] do\n" }
+{MPLTEXT 1 0 34 "            point_t:=copy(point);\n" }{MPLTEXT 1 0 
+33 "            for k from 1 to 4 do\n" }{MPLTEXT 1 0 46 "            \+
+    point_t[k,1]:=point_t[k,1]+i;\n" }{MPLTEXT 1 0 47 "               \+
+ point_t[k,3]:=point_t[k,3]+j; \n" }{MPLTEXT 1 0 20 "            end d
+o:\n" }{MPLTEXT 1 0 66 "            stickers[1,i+1,j+1]:=POLYGONS(poin
+t_t,a[2][i+2,j+2]);\n" }{MPLTEXT 1 0 16 "        end do:\n" }{MPLTEXT 
+1 0 12 "    end do:\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 62 "    poin
+t:=[[l,-l,-1.5],[-l,-l,-1.5],[-l,l,-1.5],[l,l,-1.5]];\n" }{MPLTEXT 1 
+0 27 "    for i in [-1, 0, 1] do\n" }{MPLTEXT 1 0 31 "        for j in
+ [-1, 0, 1] do\n" }{MPLTEXT 1 0 34 "            point_t:=copy(point);
+\n" }{MPLTEXT 1 0 33 "            for k from 1 to 4 do\n" }{MPLTEXT 1 
+0 46 "                point_t[k,1]:=point_t[k,1]+i;\n" }{MPLTEXT 1 0 
+47 "                point_t[k,2]:=point_t[k,2]+j; \n" }{MPLTEXT 1 0 
+20 "            end do:\n" }{MPLTEXT 1 0 67 "            stickers[2,i+
+1,j+1]:=POLYGONS(point_t, a[3][i+2,j+2]);\n" }{MPLTEXT 1 0 16 "       \+
+ end do:\n" }{MPLTEXT 1 0 12 "    end do:\n" }{MPLTEXT 1 0 1 "\n" }
+{MPLTEXT 1 0 62 "    point:=[[l,-1.5,-l],[-l,-1.5,-l],[-l,-1.5,l],[l,-
+1.5,l]];\n" }{MPLTEXT 1 0 27 "    for i in [-1, 0, 1] do\n" }{MPLTEXT 
+1 0 31 "        for j in [-1, 0, 1] do\n" }{MPLTEXT 1 0 34 "          \+
+  point_t:=copy(point);\n" }{MPLTEXT 1 0 33 "            for k from 1 \+
+to 4 do\n" }{MPLTEXT 1 0 46 "                point_t[k,1]:=point_t[k,1
+]+i;\n" }{MPLTEXT 1 0 47 "                point_t[k,3]:=point_t[k,3]+j
+; \n" }{MPLTEXT 1 0 20 "            end do:\n" }{MPLTEXT 1 0 67 "     \+
+       stickers[3,i+1,j+1]:=POLYGONS(point_t, a[4][i+2,j+2]);\n" }
+{MPLTEXT 1 0 16 "        end do:\n" }{MPLTEXT 1 0 12 "    end do:\n" }
+{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 62 "    point:=[[-1.5,l,-l],[-1.5,-l
+,-l],[-1.5,-l,l],[-1.5,l,l]];\n" }{MPLTEXT 1 0 27 "    for i in [-1, 0
+, 1] do\n" }{MPLTEXT 1 0 31 "        for j in [-1, 0, 1] do\n" }
+{MPLTEXT 1 0 34 "            point_t:=copy(point);\n" }{MPLTEXT 1 0 
+33 "            for k from 1 to 4 do\n" }{MPLTEXT 1 0 46 "            \+
+    point_t[k,2]:=point_t[k,2]+i;\n" }{MPLTEXT 1 0 47 "               \+
+ point_t[k,3]:=point_t[k,3]+j; \n" }{MPLTEXT 1 0 20 "            end d
+o:\n" }{MPLTEXT 1 0 67 "            stickers[4,i+1,j+1]:=POLYGONS(poin
+t_t, a[5][i+2,j+2]);\n" }{MPLTEXT 1 0 16 "        end do:\n" }{MPLTEXT
+ 1 0 12 "    end do:\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 58 "    poi
+nt:=[[1.5,l,-l],[1.5,-l,-l],[1.5,-l,l],[1.5,l,l]];\n" }{MPLTEXT 1 0 
+27 "    for i in [-1, 0, 1] do\n" }{MPLTEXT 1 0 31 "        for j in [
+-1, 0, 1] do\n" }{MPLTEXT 1 0 34 "            point_t:=copy(point);\n"
+ }{MPLTEXT 1 0 33 "            for k from 1 to 4 do\n" }{MPLTEXT 1 0 
+46 "                point_t[k,2]:=point_t[k,2]+i;\n" }{MPLTEXT 1 0 47 
+"                point_t[k,3]:=point_t[k,3]+j; \n" }{MPLTEXT 1 0 20 " \+
+           end do:\n" }{MPLTEXT 1 0 67 "            stickers[5,i+1,j+1
+]:=POLYGONS(point_t, a[6][i+2,j+2]);\n" }{MPLTEXT 1 0 16 "        end \+
+do:\n" }{MPLTEXT 1 0 12 "    end do:\n" }{MPLTEXT 1 0 5 "    \n" }
+{MPLTEXT 1 0 44 "    #L:=Flatten(convert(cubes3d,listlist));\n" }
+{MPLTEXT 1 0 15 "              \n" }{MPLTEXT 1 0 73 "    #plots[displa
+y](L,ListTools[Flatten](convert(stickers, listlist))); \n" }{MPLTEXT 
+1 0 9 "end proc:" }{MPLTEXT 1 0 0 "" }}{PARA 210 "" 1 "" {TEXT 244 0 "
+" }{HYPERLNK 244 "Warning, (in ShowCube) `l` is implicitly declared lo
+cal" 4 "http://www.maplesoft.com/support/help/errors/view.aspx?path=Wa
+rning,%20(in%20ShowCube)%20%60l%60%20is%20implicitly%20declared%20loca
+l" "" }{TEXT 244 0 "" }}{PARA 210 "" 1 "" {TEXT 244 0 "" }{HYPERLNK 
+244 "Warning, (in ShowCube) `i` is implicitly declared local" 4 "http:
+//www.maplesoft.com/support/help/errors/view.aspx?path=Warning,%20(in%
+20ShowCube)%20%60i%60%20is%20implicitly%20declared%20local" "" }{TEXT 
+244 0 "" }}{PARA 210 "" 1 "" {TEXT 244 0 "" }{HYPERLNK 244 "Warning, (
+in ShowCube) `j` is implicitly declared local" 4 "http://www.maplesoft
+.com/support/help/errors/view.aspx?path=Warning,%20(in%20ShowCube)%20%
+60j%60%20is%20implicitly%20declared%20local" "" }{TEXT 244 0 "" }}
+{PARA 210 "" 1 "" {TEXT 244 0 "" }{HYPERLNK 244 "Warning, (in ShowCube
+) `k` is implicitly declared local" 4 "http://www.maplesoft.com/suppor
+t/help/errors/view.aspx?path=Warning,%20(in%20ShowCube)%20%60k%60%20is
+%20implicitly%20declared%20local" "" }{TEXT 244 0 "" }}{PARA 210 "" 1 
+"" {TEXT 244 0 "" }{HYPERLNK 244 "Warning, (in ShowCube) `point` is im
+plicitly declared local" 4 "http://www.maplesoft.com/support/help/erro
+rs/view.aspx?path=Warning,%20(in%20ShowCube)%20%60point%60%20is%20impl
+icitly%20declared%20local" "" }{TEXT 244 0 "" }}{PARA 210 "" 1 "" 
+{TEXT 244 0 "" }{HYPERLNK 244 "Warning, (in ShowCube) `point_t` is imp
+licitly declared local" 4 "http://www.maplesoft.com/support/help/error
+s/view.aspx?path=Warning,%20(in%20ShowCube)%20%60point_t%60%20is%20imp
+licitly%20declared%20local" "" }{TEXT 244 0 "" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 40 "cubes3d := Array(0 .. 2, 0 .. 2, 0 .. 2)" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "-I%msubG6#/I+modulenameG6\"I,Typesetting
+GI(_syslibGF'6%-I#miGF$6%Q(_rtableF'/%'italicGQ%trueF'/%,mathvariantGQ
+'italicF'-I%mrowGF$6#-I#mnGF$6$Q536893490206335620028F'/F3Q'normalF'/%
+/subscriptshiftGQ\"0F'" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 42 "S
+tickM := Array(-2 .. 2, -2 .. 2, -2 .. 2)" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "-I%msubG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%-I
+#miGF$6%Q(_rtableF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-I%mrowG
+F$6#-I#mnGF$6$Q536893490206335621708F'/F3Q'normalF'/%/subscriptshiftGQ
+\"0F'" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 54 "StickM[-1 .. 1, -1
+ .. 1, 2] := COLOUR(RGB, 255, 0, 0):" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 56 "StickM[-1 .. 1, -1 .. 1, -2] := COLOUR(RGB, 1, 0.54, \+
+0):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 54 "StickM[-1 .. 1, 2, -
+1 .. 1] := COLOUR(RGB, 0, 0, 255):" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 55 "StickM[-1 .. 1, -2, -1 .. 1] := COLOUR(RGB, 0, 128, 0
+):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 58 "StickM[2, -1 .. 1, -1
+ .. 1] := COLOUR(RGB, 255, 255, 255):" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 57 "StickM[-2, -1 .. 1, -1 .. 1] := COLOUR(RGB, 255, 255,
+ 0):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 41 "stickers := Array(0
+ .. 5, 0 .. 2, 0 .. 2)" }}{PARA 11 "" 1 "" {XPPMATH 20 "-I%msubG6#/I+m
+odulenameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6%Q(_rtableF'/%'itali
+cGQ%trueF'/%,mathvariantGQ'italicF'-I%mrowGF$6#-I#mnGF$6$Q536893490206
+335617372F'/F3Q'normalF'/%/subscriptshiftGQ\"0F'" }}}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 28 "conv_stick := proc(StickM):\n" }{MPLTEXT 1 0 
+22 "    with(ArrayTools):\n" }{MPLTEXT 1 0 34 "    local CubeM := [0,0
+,0,0,0,0];\n" }{MPLTEXT 1 0 70 "    CubeM[1] := Reshape(StickM[-1 .. 1
+, -1 .. 1, 2], 1 .. 3, 1 .. 3);\n" }{MPLTEXT 1 0 70 "    CubeM[2] := R
+eshape(StickM[2, -1 .. 1, -1 .. 1], 1 .. 3, 1 .. 3);\n" }{MPLTEXT 1 0 
+71 "    CubeM[3] := Reshape(StickM[-1 .. 1, -1 .. 1, -2], 1 .. 3, 1 ..
+ 3);\n" }{MPLTEXT 1 0 71 "    CubeM[4] := Reshape(StickM[-2, -1 .. 1, \+
+-1 .. 1], 1 .. 3, 1 .. 3);\n" }{MPLTEXT 1 0 71 "    CubeM[5] := Reshap
+e(StickM[-1 .. 1, -2, -1 .. 1], 1 .. 3, 1 .. 3);\n" }{MPLTEXT 1 0 70 "
+    CubeM[6] := Reshape(StickM[-1 .. 1, 2, -1 .. 1], 1 .. 3, 1 .. 3);
+\n" }{MPLTEXT 1 0 11 "    CubeM;\n" }{MPLTEXT 1 0 9 "end proc:" }
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 46 "Draw_cu
+be := proc(StickM, cubes3d, stickers):\n" }{MPLTEXT 1 0 35 "    local \+
+A := conv_stick(StickM);\n" }{MPLTEXT 1 0 36 "    ShowCube(A, cubes3d,
+ stickers);\n" }{MPLTEXT 1 0 120 "    plots[display](Flatten(convert(c
+ubes3d, listlist)), Flatten(convert(stickers, listlist)), axes=none, s
+hading = XY);\n" }{MPLTEXT 1 0 9 "end proc:" }{MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 ""
+ {XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:-mo(\" \", mathvariant =
+ \"normal\", fence = \"false\", separator = \"false\", stretchy = \"fa
+lse\", symmetric = \"false\", largeop = \"false\", movablelimits = \"f
+alse\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"));"
+ "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6#-I#moGF$6-Q\"
+~F'/%,mathvariantGQ'normalF'/%&fenceGQ&falseF'/%*separatorGF4/%)stretc
+hyGF4/%*symmetricGF4/%(largeopGF4/%.movablelimitsGF4/%'accentGF4/%'lsp
+aceGQ&0.0emF'/%'rspaceGFC" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "
+Typesetting:-mrow(Typesetting:-mo(\" \", mathvariant = \"normal\", fen
+ce = \"false\", separator = \"false\", stretchy = \"false\", symmetric
+ = \"false\", largeop = \"false\", movablelimits = \"false\", accent =
+ \"false\", lspace = \"0.0em\", rspace = \"0.0em\"));" "-I%mrowG6#/I+m
+odulenameG6\"I,TypesettingGI(_syslibGF'6#-I#moGF$6-Q\"~F'/%,mathvarian
+tGQ'normalF'/%&fenceGQ&falseF'/%*separatorGF4/%)stretchyGF4/%*symmetri
+cGF4/%(largeopGF4/%.movablelimitsGF4/%'accentGF4/%'lspaceGQ&0.0emF'/%'
+rspaceGFC" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:-mro
+w(Typesetting:-mo(\" \", mathvariant = \"normal\", fence = \"false\", \+
+separator = \"false\", stretchy = \"false\", symmetric = \"false\", la
+rgeop = \"false\", movablelimits = \"false\", accent = \"false\", lspa
+ce = \"0.0em\", rspace = \"0.0em\"));" "-I%mrowG6#/I+modulenameG6\"I,T
+ypesettingGI(_syslibGF'6#-I#moGF$6-Q\"~F'/%,mathvariantGQ'normalF'/%&f
+enceGQ&falseF'/%*separatorGF4/%)stretchyGF4/%*symmetricGF4/%(largeopGF
+4/%.movablelimitsGF4/%'accentGF4/%'lspaceGQ&0.0emF'/%'rspaceGFC" }}}
+{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:
+-mo(\" \", mathvariant = \"normal\", fence = \"false\", separator = \"
+false\", stretchy = \"false\", symmetric = \"false\", largeop = \"fals
+e\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\"
+, rspace = \"0.0em\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_
+syslibGF'6#-I#moGF$6-Q\"~F'/%,mathvariantGQ'normalF'/%&fenceGQ&falseF'
+/%*separatorGF4/%)stretchyGF4/%*symmetricGF4/%(largeopGF4/%.movablelim
+itsGF4/%'accentGF4/%'lspaceGQ&0.0emF'/%'rspaceGFC" }}}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 43 "RotateBundle:=proc(l::list, pos::integer);\n
+" }{MPLTEXT 1 0 13 "    res:=[]:\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 
+0 18 "    if pos=0 then\n" }{MPLTEXT 1 0 18 "    for i in l do\n" }
+{MPLTEXT 1 0 54 "        res:=[op(res), plottools[rotate](i,t,0,0)]:  \+
+\n" }{MPLTEXT 1 0 12 "    end do:\n" }{MPLTEXT 1 0 12 "    end if;\n" 
+}{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 18 "    if pos=1 then\n" }{MPLTEXT 
+1 0 18 "    for i in l do\n" }{MPLTEXT 1 0 54 "        res:=[op(res), \+
+plottools[rotate](i,0,t,0)]:  \n" }{MPLTEXT 1 0 12 "    end do:\n" }
+{MPLTEXT 1 0 12 "    end if;\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 18 
+"    if pos=2 then\n" }{MPLTEXT 1 0 18 "    for i in l do\n" }{MPLTEXT
+ 1 0 54 "        res:=[op(res), plottools[rotate](i,0,0,t)]:  \n" }
+{MPLTEXT 1 0 12 "    end do:\n" }{MPLTEXT 1 0 12 "    end if;\n" }
+{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 9 "    res;\n" }{MPLTEXT 1 0 9 "end \+
+proc:" }{MPLTEXT 1 0 0 "" }}{PARA 210 "" 1 "" {TEXT 244 0 "" }
+{HYPERLNK 244 "Warning, (in RotateBundle) `res` is implicitly declared
+ local" 4 "http://www.maplesoft.com/support/help/errors/view.aspx?path
+=Warning,%20(in%20RotateBundle)%20%60res%60%20is%20implicitly%20declar
+ed%20local" "" }{TEXT 244 0 "" }}{PARA 210 "" 1 "" {TEXT 244 0 "" }
+{HYPERLNK 244 "Warning, (in RotateBundle) `i` is implicitly declared l
+ocal" 4 "http://www.maplesoft.com/support/help/errors/view.aspx?path=W
+arning,%20(in%20RotateBundle)%20%60i%60%20is%20implicitly%20declared%2
+0local" "" }{TEXT 244 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+30 "ChooseCubes:=proc(s::string);\n" }{MPLTEXT 1 0 15 "    piecewise(
+\n" }{MPLTEXT 1 0 35 "        s=\"B\",[1,2,3,4,5,6,7,8,9],\n" }
+{MPLTEXT 1 0 44 "        s=\"S\",[10,11,12,13,14,15,16,17,18],\n" }
+{MPLTEXT 1 0 44 "        s=\"F\",[19,20,21,22,23,24,25,26,27],\n" }
+{MPLTEXT 1 0 41 "        s=\"U\",[3,6,9,12,15,18,21,24,27],\n" }
+{MPLTEXT 1 0 41 "        s=\"E\",[2,5,8,11,14,17,20,23,26],\n" }
+{MPLTEXT 1 0 41 "        s=\"D\",[1,4,7,10,13,16,19,22,25],\n" }
+{MPLTEXT 1 0 41 "        s=\"L\",[1,2,3,10,11,12,19,20,21],\n" }
+{MPLTEXT 1 0 41 "        s=\"M\",[4,5,6,13,14,15,22,23,24],\n" }
+{MPLTEXT 1 0 41 "        s=\"R\",[7,8,9,16,17,18,25,26,27],\n" }
+{MPLTEXT 1 0 32 "        s=\"X\",[seq(i,i=1..27)],\n" }{MPLTEXT 1 0 8 
+"        " }{MPLTEXT 1 0 23 "s=\"Y\",[seq(i,i=1..27)]," }{MPLTEXT 1 0 
+1 "\n" }{MPLTEXT 1 0 8 "        " }{MPLTEXT 1 0 22 "s=\"Z\",[seq(i,i=1
+..27)]" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 7 "    );\n" }{MPLTEXT 1 0 
+9 "end proc:" }{MPLTEXT 1 0 0 "" }}{PARA 210 "" 1 "" {TEXT 244 0 "" }
+{HYPERLNK 244 "Warning, (in ChooseCubes) `i` is implicitly declared lo
+cal" 4 "http://www.maplesoft.com/support/help/errors/view.aspx?path=Wa
+rning,%20(in%20ChooseCubes)%20%60i%60%20is%20implicitly%20declared%20l
+ocal" "" }{TEXT 244 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 28 "
+ElseCubes:=proc(s::string);\n" }{MPLTEXT 1 0 71 "    convert(\{seq(i,i
+=1..27)\} minus convert(ChooseCubes(s),set), list);\n" }{MPLTEXT 1 0 
+9 "end proc:" }{MPLTEXT 1 0 0 "" }}{PARA 210 "" 1 "" {TEXT 244 0 "" }
+{HYPERLNK 244 "Warning, (in ElseCubes) `i` is implicitly declared loca
+l" 4 "http://www.maplesoft.com/support/help/errors/view.aspx?path=Warn
+ing,%20(in%20ElseCubes)%20%60i%60%20is%20implicitly%20declared%20local
+" "" }{TEXT 244 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 15 "[seq
+(i,i=0..6)]" }}{PARA 11 "" 1 "" {XPPMATH 20 "7)\"\"!\"\"\"\"\"#\"\"$\"
+\"%\"\"&\"\"'" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 33 "ChooseStic
+kers:=proc(s::string);\n" }{MPLTEXT 1 0 15 "    piecewise(\n" }
+{MPLTEXT 1 0 71 "        s=\"U\",[1,2,3,4,5,6,7,8,9,12,15,18,30,33,36,
+39,42,45,48,51,54],\n" }{MPLTEXT 1 0 53 "        s=\"E\",[11,14,17,29,
+32,35,38,41,44,47,50,53],\n" }{MPLTEXT 1 0 77 "        s=\"F\",[46,47,
+48,49,50,51,52,53,54,7,8,9,16,17,18,25,26,27,34,35,36],\n" }{MPLTEXT 
+1 0 77 "        s=\"B\",[1,2,3,10,11,12,19,20,21,28,29,30,37,38,39,40,
+41,42,43,44,45],\n" }{MPLTEXT 1 0 50 "        s=\"S\",[4,5,6,13,14,15,
+22,23,24,31,32,33],\n" }{MPLTEXT 1 0 80 "        s=\"D\",[10,13,16,28,
+31,34,37,40,43,46,49,52,19,20,21,22,23,24,25,26,27],\n" }{MPLTEXT 1 0 
+77 "        s=\"L\",[1,4,7,19,22,25,37,38,39,46,47,48,28,29,30,31,32,3
+3,34,35,36],\n" }{MPLTEXT 1 0 50 "        s=\"M\",[2,5,8,20,23,26,40,4
+1,42,49,50,51],\n" }{MPLTEXT 1 0 77 "        s=\"R\",[10,11,12,13,14,1
+5,16,17,18,3,6,9,21,24,27,43,44,45,52,53,54],\n" }{MPLTEXT 1 0 32 "   \+
+     s=\"X\",[seq(i,i=1..54)],\n" }{MPLTEXT 1 0 8 "        " }{MPLTEXT
+ 1 0 24 "s=\"Y\",[seq(i,i=1..54)],\n" }{MPLTEXT 1 0 8 "        " }
+{MPLTEXT 1 0 22 "s=\"Z\",[seq(i,i=1..54)]" }{MPLTEXT 1 0 1 "\n" }
+{MPLTEXT 1 0 7 "    );\n" }{MPLTEXT 1 0 9 "end proc:" }{MPLTEXT 1 0 0 
+"" }}{PARA 210 "" 1 "" {TEXT 244 0 "" }{HYPERLNK 244 "Warning, (in Cho
+oseStickers) `i` is implicitly declared local" 4 "http://www.maplesoft
+.com/support/help/errors/view.aspx?path=Warning,%20(in%20ChooseSticker
+s)%20%60i%60%20is%20implicitly%20declared%20local" "" }{TEXT 244 0 "" 
+}}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 31 "ElseStickers:=proc(s::str
+ing);\n" }{MPLTEXT 1 0 74 "    convert(\{seq(i,i=1..54)\} minus conver
+t(ChooseStickers(s),set), list);\n" }{MPLTEXT 1 0 9 "end proc:" }
+{MPLTEXT 1 0 0 "" }}{PARA 210 "" 1 "" {TEXT 244 0 "" }{HYPERLNK 244 "W
+arning, (in ElseStickers) `i` is implicitly declared local" 4 "http://
+www.maplesoft.com/support/help/errors/view.aspx?path=Warning,%20(in%20
+ElseStickers)%20%60i%60%20is%20implicitly%20declared%20local" "" }
+{TEXT 244 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 40 "rot_anim :
+= proc(cubes3d, stickers, s):\n" }{MPLTEXT 1 0 17 "    local param;\n"
+ }{MPLTEXT 1 0 47 "    cb := Flatten(convert(cubes3d, listlist));\n" }
+{MPLTEXT 1 0 48 "    st := Flatten(convert(stickers, listlist));\n" }
+{MPLTEXT 1 0 24 "    param := piecewise(\n" }{MPLTEXT 1 0 26 "        \+
+s=\"U\", [Pi/2, 2],\n" }{MPLTEXT 1 0 28 "        s=\"U'\", [-Pi/2, 2],
+\n" }{MPLTEXT 1 0 27 "        s=\"E\", [-Pi/2, 2],\n" }{MPLTEXT 1 0 
+27 "        s=\"E'\", [Pi/2, 2],\n" }{MPLTEXT 1 0 26 "        s=\"F\",
+ [Pi/2, 0],\n" }{MPLTEXT 1 0 28 "        s=\"F'\", [-Pi/2, 0],\n" }
+{MPLTEXT 1 0 27 "        s=\"B\", [-Pi/2, 0],\n" }{MPLTEXT 1 0 35 "   \+
+     s=\"B'\", [Pi/2, 0],        \n" }{MPLTEXT 1 0 26 "        s=\"S\"
+, [Pi/2, 0],\n" }{MPLTEXT 1 0 28 "        s=\"S'\", [-Pi/2, 0],\n" }
+{MPLTEXT 1 0 27 "        s=\"D\", [-Pi/2, 2],\n" }{MPLTEXT 1 0 27 "   \+
+     s=\"D'\", [Pi/2, 2],\n" }{MPLTEXT 1 0 27 "        s=\"L\", [-Pi/2
+, 1],\n" }{MPLTEXT 1 0 27 "        s=\"L'\", [Pi/2, 1],\n" }{MPLTEXT 
+1 0 27 "        s=\"M\", [-Pi/2, 1],\n" }{MPLTEXT 1 0 27 "        s=\"
+M'\", [Pi/2, 1],\n" }{MPLTEXT 1 0 26 "        s=\"R\", [Pi/2, 1],\n" }
+{MPLTEXT 1 0 28 "        s=\"R'\", [-Pi/2, 1],\n" }{MPLTEXT 1 0 26 "  \+
+      s=\"X\", [Pi/2, 1],\n" }{MPLTEXT 1 0 8 "        " }{MPLTEXT 1 0 
+19 "s=\"X'\", [-Pi/2, 1]," }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 26 "    \+
+    s=\"Y\", [Pi/2, 2],\n" }{MPLTEXT 1 0 8 "        " }{MPLTEXT 1 0 
+19 "s=\"Y'\", [-Pi/2, 2]," }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 26 "    \+
+    s=\"Z\", [Pi/2, 0],\n" }{MPLTEXT 1 0 8 "        " }{MPLTEXT 1 0 
+18 "s=\"Z'\", [-Pi/2, 0]" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 7 "    );
+\n" }{MPLTEXT 1 0 277 "    plots[animate](plots[display], [RotateBundl
+e(st[ChooseStickers(s[1])], param[2]), RotateBundle(cb[ChooseCubes(s[1
+])], param[2]), st[ElseStickers(s[1])], cb[ElseCubes(s[1])]], t = 0 ..
+ param[1], scaling = constrained, axes=none, frames = 6, paraminfo = f
+alse, shading = XY)\n" }{MPLTEXT 1 0 9 "end proc:" }{MPLTEXT 1 0 0 "" 
+}}{PARA 210 "" 1 "" {TEXT 244 0 "" }{HYPERLNK 244 "Warning, (in rot_an
+im) `cb` is implicitly declared local" 4 "http://www.maplesoft.com/sup
+port/help/errors/view.aspx?path=Warning,%20(in%20rot_anim)%20%60cb%60%
+20is%20implicitly%20declared%20local" "" }{TEXT 244 0 "" }}{PARA 210 "
+" 1 "" {TEXT 244 0 "" }{HYPERLNK 244 "Warning, (in rot_anim) `st` is i
+mplicitly declared local" 4 "http://www.maplesoft.com/support/help/err
+ors/view.aspx?path=Warning,%20(in%20rot_anim)%20%60st%60%20is%20implic
+itly%20declared%20local" "" }{TEXT 244 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 36 "rot_stM := proc(StickM, s::string):\n" }{MPLTEXT 1 
+0 26 "    tmp1 := Array(-1..1);\n" }{MPLTEXT 1 0 26 "    tmp2 := Array
+(-1..1);\n" }{MPLTEXT 1 0 22 "    with(ArrayTools):\n" }{MPLTEXT 1 0 
+44 "    if s = \"R\" or s = \"M'\" or s = \"L'\" then\n" }{MPLTEXT 1 
+0 20 "    i := piecewise(\n" }{MPLTEXT 1 0 20 "        s = \"R\", 1,\n
+" }{MPLTEXT 1 0 21 "        s = \"M'\", 0,\n" }{MPLTEXT 1 0 21 "      \+
+  s = \"L'\", -1\n" }{MPLTEXT 1 0 8 "    ); \n" }{MPLTEXT 1 0 31 "    \+
+tmp1 := StickM[-1..1,i,2];\n" }{MPLTEXT 1 0 53 "    StickM[-1..1,i,2] \+
+:= Reverse(StickM[i,2,-1..1]);\n" }{MPLTEXT 1 0 32 "    tmp2 := StickM
+[i,-2,-1..1];\n" }{MPLTEXT 1 0 32 "    StickM[i,-2,-1..1] := tmp1;\n" 
+}{MPLTEXT 1 0 32 "    tmp1 := StickM[-1..1,i,-2];\n" }{MPLTEXT 1 0 41 
+"    StickM[-1..1,i,-2] := Reverse(tmp2);\n" }{MPLTEXT 1 0 31 "    Sti
+ckM[i,2,-1..1] := tmp1;\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 20 "    \+
+if s = \"R\" then\n" }{MPLTEXT 1 0 84 "    StickM[2,-1..1,-1..1] := Ar
+rayTools:-FlipDimension(StickM[2,-1..1,-1..1],2)^%T;\n" }{MPLTEXT 1 0 
+12 "    end if;\n" }{MPLTEXT 1 0 5 "    \n" }{MPLTEXT 1 0 21 "    if s
+ = \"L'\" then\n" }{MPLTEXT 1 0 86 "    StickM[-2,-1..1,-1..1] := Arra
+yTools:-FlipDimension(StickM[-2,-1..1,-1..1],2)^%T;\n" }{MPLTEXT 1 0 
+12 "    end if;\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 12 "    end if;
+\n" }{MPLTEXT 1 0 5 "    \n" }{MPLTEXT 1 0 44 "    if s = \"U\" or s =
+ \"E'\" or s = \"D'\" then\n" }{MPLTEXT 1 0 20 "    i := piecewise(\n"
+ }{MPLTEXT 1 0 20 "        s = \"U\", 1,\n" }{MPLTEXT 1 0 21 "        \+
+s = \"E'\", 0,\n" }{MPLTEXT 1 0 21 "        s = \"D'\", -1\n" }
+{MPLTEXT 1 0 8 "    ); \n" }{MPLTEXT 1 0 31 "    tmp1 := StickM[-1..1,
+2,i];\n" }{MPLTEXT 1 0 53 "    StickM[-1..1,2,i] := Reverse(StickM[2,-
+1..1,i]);\n" }{MPLTEXT 1 0 32 "    tmp2 := StickM[-2,-1..1,i];\n" }
+{MPLTEXT 1 0 32 "    StickM[-2,-1..1,i] := tmp1;\n" }{MPLTEXT 1 0 32 "
+    tmp1 := StickM[-1..1,-2,i];\n" }{MPLTEXT 1 0 41 "    StickM[-1..1,
+-2,i] := Reverse(tmp2);\n" }{MPLTEXT 1 0 31 "    StickM[2,-1..1,i] := \+
+tmp1;\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 20 "    if s = \"U\" then
+\n" }{MPLTEXT 1 0 84 "    StickM[-1..1,-1..1,2] := ArrayTools:-FlipDim
+ension(StickM[-1..1,-1..1,2],2)^%T;\n" }{MPLTEXT 1 0 84 "    StickM[-1
+..1,-1..1,2] := ArrayTools:-FlipDimension(StickM[-1..1,-1..1,2],2)^%T;
+\n" }{MPLTEXT 1 0 84 "    StickM[-1..1,-1..1,2] := ArrayTools:-FlipDim
+ension(StickM[-1..1,-1..1,2],2)^%T;\n" }{MPLTEXT 1 0 12 "    end if;\n
+" }{MPLTEXT 1 0 5 "    \n" }{MPLTEXT 1 0 21 "    if s = \"D'\" then\n"
+ }{MPLTEXT 1 0 86 "    StickM[-1..1,-1..1,-2] := ArrayTools:-FlipDimen
+sion(StickM[-1..1,-1..1,-2],2)^%T;\n" }{MPLTEXT 1 0 86 "    StickM[-1.
+.1,-1..1,-2] := ArrayTools:-FlipDimension(StickM[-1..1,-1..1,-2],2)^%T
+;\n" }{MPLTEXT 1 0 86 "    StickM[-1..1,-1..1,-2] := ArrayTools:-FlipD
+imension(StickM[-1..1,-1..1,-2],2)^%T;\n" }{MPLTEXT 1 0 15 "    end if
+;   \n" }{MPLTEXT 1 0 3 "  \n" }{MPLTEXT 1 0 12 "    end if;\n" }
+{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 43 "    if s = \"F\" or s = \"S\" or
+ s = \"B'\" then\n" }{MPLTEXT 1 0 20 "    i := piecewise(\n" }{MPLTEXT
+ 1 0 20 "        s = \"F\", 1,\n" }{MPLTEXT 1 0 20 "        s = \"S\",
+ 0,\n" }{MPLTEXT 1 0 21 "        s = \"B'\", -1\n" }{MPLTEXT 1 0 7 "  \+
+  );\n" }{MPLTEXT 1 0 31 "    tmp1 := StickM[i,-1..1,2];\n" }{MPLTEXT 
+1 0 45 "    StickM[i,-1..1,2] := StickM[-2,i,-1..1];\n" }{MPLTEXT 1 0 
+31 "    tmp2 := StickM[2,i,-1..1];\n" }{MPLTEXT 1 0 40 "    StickM[2,i
+,-1..1] := Reverse(tmp1);\n" }{MPLTEXT 1 0 32 "    tmp1 := StickM[i,-1
+..1,-2];\n" }{MPLTEXT 1 0 32 "    StickM[i,-1..1,-2] := tmp2;\n" }
+{MPLTEXT 1 0 41 "    StickM[-2,i,-1..1] := Reverse(tmp1);\n" }{MPLTEXT
+ 1 0 1 "\n" }{MPLTEXT 1 0 20 "    if s = \"F\" then\n" }{MPLTEXT 1 0 
+84 "    StickM[-1..1,2,-1..1] := ArrayTools:-FlipDimension(StickM[-1..
+1,2,-1..1],2)^%T;\n" }{MPLTEXT 1 0 84 "    StickM[-1..1,2,-1..1] := Ar
+rayTools:-FlipDimension(StickM[-1..1,2,-1..1],2)^%T;\n" }{MPLTEXT 1 0 
+84 "    StickM[-1..1,2,-1..1] := ArrayTools:-FlipDimension(StickM[-1..
+1,2,-1..1],2)^%T;\n" }{MPLTEXT 1 0 12 "    end if;\n" }{MPLTEXT 1 0 1 
+"\n" }{MPLTEXT 1 0 21 "    if s = \"B'\" then\n" }{MPLTEXT 1 0 86 "   \+
+ StickM[-1..1,-2,-1..1] := ArrayTools:-FlipDimension(StickM[-1..1,-2,-
+1..1],2)^%T;\n" }{MPLTEXT 1 0 86 "    StickM[-1..1,-2,-1..1] := ArrayT
+ools:-FlipDimension(StickM[-1..1,-2,-1..1],2)^%T;\n" }{MPLTEXT 1 0 86 
+"    StickM[-1..1,-2,-1..1] := ArrayTools:-FlipDimension(StickM[-1..1,
+-2,-1..1],2)^%T;\n" }{MPLTEXT 1 0 12 "    end if;\n" }{MPLTEXT 1 0 1 "
+\n" }{MPLTEXT 1 0 12 "    end if;\n" }{MPLTEXT 1 0 47 "    if s=\"R'\"
+ or s=\"U'\" or s=\"F'\" or s=\"S'\" or " }{MPLTEXT 1 0 10 "s=\"X'\" o
+r " }{MPLTEXT 1 0 10 "s=\"Y'\" or " }{MPLTEXT 1 0 6 "s=\"Z'\"" }
+{MPLTEXT 1 0 6 " then\n" }{MPLTEXT 1 0 27 "    rot_stM(StickM, s[1]);
+\n" }{MPLTEXT 1 0 27 "    rot_stM(StickM, s[1]);\n" }{MPLTEXT 1 0 27 "
+    rot_stM(StickM, s[1]);\n" }{MPLTEXT 1 0 12 "    end if;\n" }
+{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 54 "    if s=\"M\" or s=\"L\" or s=
+\"E\" or s=\"D\" or s=\"B\" then\n" }{MPLTEXT 1 0 33 "    rot_stM(Stic
+kM, cat(s,\"'\"));\n" }{MPLTEXT 1 0 33 "    rot_stM(StickM, cat(s,\"'
+\"));\n" }{MPLTEXT 1 0 33 "    rot_stM(StickM, cat(s,\"'\"));\n" }
+{MPLTEXT 1 0 12 "    end if;\n" }{MPLTEXT 1 0 5 "    \n" }{MPLTEXT 1 
+0 18 "    if s=\"X\" then\n" }{MPLTEXT 1 0 26 "    rot_stM(StickM, \"R
+\");\n" }{MPLTEXT 1 0 4 "    " }{MPLTEXT 1 0 22 "rot_stM(StickM, \"M'
+\");" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 27 "    rot_stM(StickM, \"L'
+\");\n" }{MPLTEXT 1 0 12 "    end if;\n" }{MPLTEXT 1 0 1 "\n" }
+{MPLTEXT 1 0 4 "    " }{MPLTEXT 1 0 14 "if s=\"Y\" then\n" }{MPLTEXT 
+1 0 26 "    rot_stM(StickM, \"U\");\n" }{MPLTEXT 1 0 4 "    " }
+{MPLTEXT 1 0 22 "rot_stM(StickM, \"E'\");" }{MPLTEXT 1 0 1 "\n" }
+{MPLTEXT 1 0 27 "    rot_stM(StickM, \"D'\");\n" }{MPLTEXT 1 0 11 "   \+
+ end if;" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 5 "    \n" }{MPLTEXT 1 0 
+4 "    " }{MPLTEXT 1 0 14 "if s=\"Z\" then\n" }{MPLTEXT 1 0 26 "    ro
+t_stM(StickM, \"F\");\n" }{MPLTEXT 1 0 26 "    rot_stM(StickM, \"S\");
+\n" }{MPLTEXT 1 0 27 "    rot_stM(StickM, \"B'\");\n" }{MPLTEXT 1 0 
+11 "    end if;" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 
+1 0 1 "\n" }{MPLTEXT 1 0 9 "end proc:" }{MPLTEXT 1 0 0 "" }}{PARA 210 
+"" 1 "" {TEXT 244 0 "" }{HYPERLNK 244 "Warning, (in rot_stM) `tmp1` is
+ implicitly declared local" 4 "http://www.maplesoft.com/support/help/e
+rrors/view.aspx?path=Warning,%20(in%20rot_stM)%20%60tmp1%60%20is%20imp
+licitly%20declared%20local" "" }{TEXT 244 0 "" }}{PARA 210 "" 1 "" 
+{TEXT 244 0 "" }{HYPERLNK 244 "Warning, (in rot_stM) `tmp2` is implici
+tly declared local" 4 "http://www.maplesoft.com/support/help/errors/vi
+ew.aspx?path=Warning,%20(in%20rot_stM)%20%60tmp2%60%20is%20implicitly%
+20declared%20local" "" }{TEXT 244 0 "" }}{PARA 210 "" 1 "" {TEXT 244 
+0 "" }{HYPERLNK 244 "Warning, (in rot_stM) `i` is implicitly declared \+
+local" 4 "http://www.maplesoft.com/support/help/errors/view.aspx?path=
+Warning,%20(in%20rot_stM)%20%60i%60%20is%20implicitly%20declared%20loc
+al" "" }{TEXT 244 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 51 "Cu
+be_rotation := proc(StickM, cubes3d, stickers, s," }{MPLTEXT 1 0 1 " "
+ }{MPLTEXT 1 0 5 "Moves" }{MPLTEXT 1 0 3 "):\n" }{MPLTEXT 1 0 59 "    \+
+ArrayTools[Append](Moves, Ant_move(s), inplace = true);" }{MPLTEXT 1 
+0 1 "\n" }{MPLTEXT 1 0 29 "    A := conv_stick(StickM);\n" }{MPLTEXT 
+1 0 36 "    ShowCube(A, cubes3d, stickers);\n" }{MPLTEXT 1 0 24 "    r
+ot_stM(StickM, s);\n" }{MPLTEXT 1 0 36 "    rot_anim(cubes3d, stickers
+, s);\n" }{MPLTEXT 1 0 9 "end proc:" }{MPLTEXT 1 0 0 "" }}{PARA 210 ""
+ 1 "" {TEXT 244 0 "" }{HYPERLNK 244 "Warning, (in Cube_rotation) `A` i
+s implicitly declared local" 4 "http://www.maplesoft.com/support/help/
+errors/view.aspx?path=Warning,%20(in%20Cube_rotation)%20%60A%60%20is%2
+0implicitly%20declared%20local" "" }{TEXT 244 0 "" }}}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 21 "Ant_move := proc(s):\n" }{MPLTEXT 1 0 23 "  \+
+  with(StringTools):\n" }{MPLTEXT 1 0 26 "    if Length(s) = 2 then\n"
+ }{MPLTEXT 1 0 21 "        res := s[1];\n" }{MPLTEXT 1 0 12 "    end i
+f;\n" }{MPLTEXT 1 0 26 "    if Length(s) = 1 then\n" }{MPLTEXT 1 0 28 
+"        res := cat(s, \"'\");\n" }{MPLTEXT 1 0 12 "    end if;\n" }
+{MPLTEXT 1 0 9 "    res;\n" }{MPLTEXT 1 0 9 "end proc:" }}{PARA 210 ""
+ 1 "" {TEXT 244 0 "" }{HYPERLNK 244 "Warning, (in Ant_move) `res` is i
+mplicitly declared local" 4 "http://www.maplesoft.com/support/help/err
+ors/view.aspx?path=Warning,%20(in%20Ant_move)%20%60res%60%20is%20impli
+citly%20declared%20local" "" }{TEXT 244 0 "" }}}{EXCHG {PARA 0 "> " 0 
+"" {XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:-mi(\"Ant_move\", ital
+ic = \"true\", mathvariant = \"italic\"), Typesetting:-mfenced(Typeset
+ting:-mrow(Typesetting:-mi(\"\"), Typesetting:-ms(\"U'\"), Typesetting
+:-mi(\"\")), mathvariant = \"normal\"), Typesetting:-mo(\";\", mathvar
+iant = \"normal\", fence = \"false\", separator = \"true\", stretchy =
+ \"false\", symmetric = \"false\", largeop = \"false\", movablelimits \+
+= \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.2777
+778em\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%-I
+#miGF$6%Q)Ant_moveF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-I(mfen
+cedGF$6$-F#6%-F,6#Q!F'-I#msGF$6#Q#U'F'F:/F3Q'normalF'-I#moGF$6-Q\";F'F
+A/%&fenceGQ&falseF'/%*separatorGF1/%)stretchyGFI/%*symmetricGFI/%(larg
+eopGFI/%.movablelimitsGFI/%'accentGFI/%'lspaceGQ&0.0emF'/%'rspaceGQ,0.
+2777778emF'" }}{PARA 11 "" 1 "" {XPPMATH 20 "Q\"U6\"" }}}{EXCHG {PARA 
+0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:-mi(\"Length
+\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-mfenced
+(Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-ms(\"U\"), Type
+setting:-mi(\"\")), mathvariant = \"normal\"));" "-I%mrowG6#/I+modulen
+ameG6\"I,TypesettingGI(_syslibGF'6$-I#miGF$6%Q'LengthF'/%'italicGQ%tru
+eF'/%,mathvariantGQ'italicF'-I(mfencedGF$6$-F#6%-F,6#Q!F'-I#msGF$6#Q\"
+UF'F:/F3Q'normalF'" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"\"" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 55 "Scramble := proc(StickM, cubes3d, s
+tickers, n, Moves):\n" }{MPLTEXT 1 0 15 "    arr := [\"R\"" }{MPLTEXT 
+1 0 6 ", \"R'\"" }{MPLTEXT 1 0 5 ", \"U\"" }{MPLTEXT 1 0 6 ", \"U'\"" 
+}{MPLTEXT 1 0 5 ", \"D\"" }{MPLTEXT 1 0 6 ", \"D'\"" }{MPLTEXT 1 0 5 "
+, \"F\"" }{MPLTEXT 1 0 6 ", \"F'\"" }{MPLTEXT 1 0 5 ", \"B\"" }
+{MPLTEXT 1 0 6 ", \"B'\"" }{MPLTEXT 1 0 11 ", \"L\", \"L'\"" }{MPLTEXT
+ 1 0 3 "];\n" }{MPLTEXT 1 0 25 "    roll := rand(1..12);\n" }{MPLTEXT 
+1 0 33 "    list := [seq(x[i], i=1..n)];\n" }{MPLTEXT 1 0 15 "    prev
+ := 0;\n" }{MPLTEXT 1 0 12 "    i := 1;\n" }{MPLTEXT 1 0 7 "    do\n" 
+}{MPLTEXT 1 0 22 "        cur := roll();" }{MPLTEXT 1 0 1 "\n" }
+{MPLTEXT 1 0 26 "        if prev <> 0 then\n" }{MPLTEXT 1 0 55 "      \+
+      if (cur mod 2 = 1) and cur = prev - 1 then\n" }{MPLTEXT 1 0 17 "
+                \n" }{MPLTEXT 1 0 22 "                next;\n" }
+{MPLTEXT 1 0 20 "            end if;\n" }{MPLTEXT 1 0 12 "            
+" }{MPLTEXT 1 0 43 "if (cur mod 2 = 0) and cur = prev + 1 then\n" }
+{MPLTEXT 1 0 16 "                " }{MPLTEXT 1 0 10 "i = i - 1;" }
+{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 22 "                next;\n" }
+{MPLTEXT 1 0 19 "            end if;" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 
+1 0 16 "        end if;\n" }{MPLTEXT 1 0 21 "        prev := cur;\n" }
+{MPLTEXT 1 0 8 "        " }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 8 "      \+
+  " }{MPLTEXT 1 0 69 "list[i] := Cube_rotation(StickM, cubes3d, sticke
+rs, arr[cur], Moves);" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 20 "        \+
+i := i + 1;\n" }{MPLTEXT 1 0 21 "    until i = n + 1;\n" }{MPLTEXT 1 
+0 4 "    " }{MPLTEXT 1 0 33 "plots[display](list, insequence);" }
+{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 9 "end proc:" }}{PARA 210 "" 1 "" 
+{TEXT 244 0 "" }{HYPERLNK 244 "Warning, (in Scramble) `arr` is implici
+tly declared local" 4 "http://www.maplesoft.com/support/help/errors/vi
+ew.aspx?path=Warning,%20(in%20Scramble)%20%60arr%60%20is%20implicitly%
+20declared%20local" "" }{TEXT 244 0 "" }}{PARA 210 "" 1 "" {TEXT 244 
+0 "" }{HYPERLNK 244 "Warning, (in Scramble) `roll` is implicitly decla
+red local" 4 "http://www.maplesoft.com/support/help/errors/view.aspx?p
+ath=Warning,%20(in%20Scramble)%20%60roll%60%20is%20implicitly%20declar
+ed%20local" "" }{TEXT 244 0 "" }}{PARA 210 "" 1 "" {TEXT 244 0 "" }
+{HYPERLNK 244 "Warning, (in Scramble) `list` is implicitly declared lo
+cal" 4 "http://www.maplesoft.com/support/help/errors/view.aspx?path=Wa
+rning,%20(in%20Scramble)%20%60list%60%20is%20implicitly%20declared%20l
+ocal" "" }{TEXT 244 0 "" }}{PARA 210 "" 1 "" {TEXT 244 0 "" }{HYPERLNK
+ 244 "Warning, (in Scramble) `i` is implicitly declared local" 4 "http
+://www.maplesoft.com/support/help/errors/view.aspx?path=Warning,%20(in
+%20Scramble)%20%60i%60%20is%20implicitly%20declared%20local" "" }{TEXT
+ 244 0 "" }}{PARA 210 "" 1 "" {TEXT 244 0 "" }{HYPERLNK 244 "Warning, \+
+(in Scramble) `prev` is implicitly declared local" 4 "http://www.maple
+soft.com/support/help/errors/view.aspx?path=Warning,%20(in%20Scramble)
+%20%60prev%60%20is%20implicitly%20declared%20local" "" }{TEXT 244 0 ""
+ }}{PARA 210 "" 1 "" {TEXT 244 0 "" }{HYPERLNK 244 "Warning, (in Scram
+ble) `cur` is implicitly declared local" 4 "http://www.maplesoft.com/s
+upport/help/errors/view.aspx?path=Warning,%20(in%20Scramble)%20%60cur%
+60%20is%20implicitly%20declared%20local" "" }{TEXT 244 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "Reset := " }{MPLTEXT 1 0 37 "proc(St
+ickM, cubes3d, stickers, Moves" }{MPLTEXT 1 0 3 "):\n" }{MPLTEXT 1 0 
+4 "    " }{MPLTEXT 1 0 55 "StickM[-1 .. 1, -1 .. 1, 2] := COLOUR(RGB, \+
+255, 0, 0):\n" }{MPLTEXT 1 0 4 "    " }{MPLTEXT 1 0 57 "StickM[-1 .. 1
+, -1 .. 1, -2] := COLOUR(RGB, 1, 0.54, 0):\n" }{MPLTEXT 1 0 4 "    " }
+{MPLTEXT 1 0 55 "StickM[-1 .. 1, 2, -1 .. 1] := COLOUR(RGB, 0, 0, 255)
+:\n" }{MPLTEXT 1 0 4 "    " }{MPLTEXT 1 0 55 "StickM[-1 .. 1, -2, -1 .
+. 1] := COLOUR(RGB, 0, 128, 0):" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 4 
+"    " }{MPLTEXT 1 0 59 "StickM[2, -1 .. 1, -1 .. 1] := COLOUR(RGB, 25
+5, 255, 255):\n" }{MPLTEXT 1 0 4 "    " }{MPLTEXT 1 0 58 "StickM[-2, -
+1 .. 1, -1 .. 1] := COLOUR(RGB, 255, 255, 0):\n" }{MPLTEXT 1 0 4 "    
+" }{MPLTEXT 1 0 45 "ArrayTools[Remove](Moves, 1..Size(Moves)[2]);" }
+{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 14 "    Draw_cube(" }{MPLTEXT 1 0 
+25 "StickM, cubes3d, stickers" }{MPLTEXT 1 0 3 ");\n" }{MPLTEXT 1 0 9 
+"end proc:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "Solve := proc
+(" }{MPLTEXT 1 0 32 "StickM, cubes3d, stickers, Moves" }{MPLTEXT 1 0 
+3 "):\n" }{MPLTEXT 1 0 22 "    with(ArrayTools):\n" }{MPLTEXT 1 0 15 "
+    res := [];\n" }{MPLTEXT 1 0 43 "    ArrayTools[Reverse](Moves, 'in
+place');\n" }{MPLTEXT 1 0 22 "    for i in Moves do\n" }{MPLTEXT 1 0 
+25 "        res := [op(res), " }{MPLTEXT 1 0 50 "Cube_rotation(StickM,
+ cubes3d, stickers, i, Moves)" }{MPLTEXT 1 0 3 "];\n" }{MPLTEXT 1 0 
+39 "        ArrayTools[Remove](Moves, -1);\n" }{MPLTEXT 1 0 12 "    en
+d do;\n" }{MPLTEXT 1 0 15 "    ArrayTools[" }{MPLTEXT 1 0 34 "Remove](
+Moves, 1..Size(Moves)[2]);" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 4 "    
+" }{MPLTEXT 1 0 32 "plots[display](res, insequence);" }{MPLTEXT 1 0 1 
+"\n" }{MPLTEXT 1 0 9 "end proc:" }}{PARA 210 "" 1 "" {TEXT 244 0 "" }
+{HYPERLNK 244 "Warning, (in Solve) `res` is implicitly declared local"
+ 4 "http://www.maplesoft.com/support/help/errors/view.aspx?path=Warnin
+g,%20(in%20Solve)%20%60res%60%20is%20implicitly%20declared%20local" ""
+ }{TEXT 244 0 "" }}{PARA 210 "" 1 "" {TEXT 244 0 "" }{HYPERLNK 244 "Wa
+rning, (in Solve) `i` is implicitly declared local" 4 "http://www.mapl
+esoft.com/support/help/errors/view.aspx?path=Warning,%20(in%20Solve)%2
+0%60i%60%20is%20implicitly%20declared%20local" "" }{TEXT 244 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:
+-mo(\" \", mathvariant = \"normal\", fence = \"false\", separator = \"
+false\", stretchy = \"false\", symmetric = \"false\", largeop = \"fals
+e\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\"
+, rspace = \"0.0em\"), Typesetting:-mo(\" \", mathvariant = \"normal\"
+, fence = \"false\", separator = \"false\", stretchy = \"false\", symm
+etric = \"false\", largeop = \"false\", movablelimits = \"false\", acc
+ent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:
+-mo(\" \", mathvariant = \"normal\", fence = \"false\", separator = \"
+false\", stretchy = \"false\", symmetric = \"false\", largeop = \"fals
+e\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\"
+, rspace = \"0.0em\"), Typesetting:-mo(\" \", mathvariant = \"normal\"
+, fence = \"false\", separator = \"false\", stretchy = \"false\", symm
+etric = \"false\", largeop = \"false\", movablelimits = \"false\", acc
+ent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:
+-mo(\" \", mathvariant = \"normal\", fence = \"false\", separator = \"
+false\", stretchy = \"false\", symmetric = \"false\", largeop = \"fals
+e\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\"
+, rspace = \"0.0em\"), Typesetting:-mo(\" \", mathvariant = \"normal\"
+, fence = \"false\", separator = \"false\", stretchy = \"false\", symm
+etric = \"false\", largeop = \"false\", movablelimits = \"false\", acc
+ent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:
+-mo(\" \", mathvariant = \"normal\", fence = \"false\", separator = \"
+false\", stretchy = \"false\", symmetric = \"false\", largeop = \"fals
+e\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\"
+, rspace = \"0.0em\"), Typesetting:-mo(\" \", mathvariant = \"normal\"
+, fence = \"false\", separator = \"false\", stretchy = \"false\", symm
+etric = \"false\", largeop = \"false\", movablelimits = \"false\", acc
+ent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:
+-mspace(height = \"0.0ex\", width = \"0.0em\", depth = \"0.0ex\", line
+break = \"newline\"), Typesetting:-mspace(height = \"0.0ex\", width = \+
+\"0.0em\", depth = \"0.0ex\", linebreak = \"auto\"), Typesetting:-mi(
+\"currentdir\", italic = \"true\", mathvariant = \"italic\"), Typesett
+ing:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"\")), mathvariant = \+
+\"normal\"), Typesetting:-mo(\";\", mathvariant = \"normal\", fence = \+
+\"false\", separator = \"true\", stretchy = \"false\", symmetric = \"f
+alse\", largeop = \"false\", movablelimits = \"false\", accent = \"fal
+se\", lspace = \"0.0em\", rspace = \"0.2777778em\"), Typesetting:-mspa
+ce(height = \"0.0ex\", width = \"0.0em\", depth = \"0.0ex\", linebreak
+ = \"newline\"), Typesetting:-mspace(height = \"0.0ex\", width = \"0.0
+em\", depth = \"0.0ex\", linebreak = \"auto\"), Typesetting:-mi(\"\"))
+;" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'62-I#moGF$6-Q
+\"~F'/%,mathvariantGQ'normalF'/%&fenceGQ&falseF'/%*separatorGF4/%)stre
+tchyGF4/%*symmetricGF4/%(largeopGF4/%.movablelimitsGF4/%'accentGF4/%'l
+spaceGQ&0.0emF'/%'rspaceGFCF+F+F+F+F+F+F+-I'mspaceGF$6&/%'heightGQ&0.0
+exF'/%&widthGFC/%&depthGFK/%*linebreakGQ(newlineF'-FG6&FIFLFN/FQQ%auto
+F'-I#miGF$6%Q+currentdirF'/%'italicGQ%trueF'/F0Q'italicF'-I(mfencedGF$
+6$-F#6#-FX6#Q!F'F/-F,6-Q\";F'F/F2/F6FgnF7F9F;F=F?FA/FEQ,0.2777778emF'F
+FFSF_o" }}{PARA 11 "" 1 "" {XPPMATH 20 "QfnC:\\Users\\g1232\\Desktop
+\\|[x|jt|[x|`v|\\x|]s|\\x|[s|[x|iv|[x|]v~|[x|_t.|[x|]t.~313~|[x|gv|[x|
+[v|[x|jv|[x|fv|[x|`v|\\x|]s6\"" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 19 "Moves := Array([]);" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I&MovesG
+6\"-I'RTABLEGF$6%\"5S2hNj?!\\$*o$-I'VECTORGF$6#7\"I&ArrayG%*protectedG
+" }}}{EXCHG {PARA 0 "> " 0 "" {TEXT 245 0 "" }}}{EXCHG {PARA 0 "> " 0 
+"" {XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:-mi(\"G2\", italic = \+
+\"true\", mathvariant = \"italic\"), Typesetting:-mo(\"&coloneq;\", ma
+thvariant = \"normal\", fence = \"false\", separator = \"false\", stre
+tchy = \"false\", symmetric = \"false\", largeop = \"false\", movablel
+imits = \"false\", accent = \"false\", lspace = \"0.2777778em\", rspac
+e = \"0.2777778em\"), Typesetting:-mo(\"proc\", bold = \"true\", mathv
+ariant = \"bold\", fontweight = \"bold\", fence = \"false\", separator
+ = \"false\", stretchy = \"false\", symmetric = \"false\", largeop = \+
+\"false\", movablelimits = \"false\", accent = \"false\", lspace = \"0
+.0em\", rspace = \"0.0em\"), Typesetting:-mfenced(Typesetting:-mrow(Ty
+pesetting:-mi(\"\")), mathvariant = \"normal\"), Typesetting:-mo(\":\"
+, mathvariant = \"normal\", fence = \"false\", separator = \"false\", \+
+stretchy = \"false\", symmetric = \"false\", largeop = \"false\", mova
+blelimits = \"false\", accent = \"false\", lspace = \"0.2777778em\", r
+space = \"0.2777778em\"), Typesetting:-mo(\" \", mathvariant = \"norma
+l\", fence = \"false\", separator = \"false\", stretchy = \"false\", s
+ymmetric = \"false\", largeop = \"false\", movablelimits = \"false\", \+
+accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetti
+ng:-mi(\"Maplets\", italic = \"true\", mathvariant = \"italic\"), Type
+setting:-mo(\":-\", mathvariant = \"normal\", fence = \"false\", separ
+ator = \"false\", stretchy = \"false\", symmetric = \"false\", largeop
+ = \"false\", movablelimits = \"false\", accent = \"false\", lspace = \+
+\"0.0em\", rspace = \"0.0em\"), Typesetting:-mi(\"Tools\", italic = \"
+true\", mathvariant = \"italic\"), Typesetting:-mo(\":-\", mathvariant
+ = \"normal\", fence = \"false\", separator = \"false\", stretchy = \"
+false\", symmetric = \"false\", largeop = \"false\", movablelimits = \+
+\"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\")
+, Typesetting:-mi(\"Set\", italic = \"true\", mathvariant = \"italic\"
+), Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-mo(\"'\", mathv
+ariant = \"normal\", fence = \"false\", separator = \"false\", stretch
+y = \"false\", symmetric = \"false\", largeop = \"false\", movablelimi
+ts = \"false\", accent = \"false\", lspace = \"0.1111111em\", rspace =
+ \"0.0em\"), Typesetting:-mi(\"plot\", italic = \"true\", mathvariant \+
+= \"italic\"), Typesetting:-mo(\"'\", mathvariant = \"normal\", fence \+
+= \"false\", separator = \"false\", stretchy = \"false\", symmetric = \+
+\"false\", largeop = \"false\", movablelimits = \"false\", accent = \"
+false\", lspace = \"0.1111111em\", rspace = \"0.0em\"), Typesetting:-m
+o(\"=\", mathvariant = \"normal\", fence = \"false\", separator = \"fa
+lse\", stretchy = \"false\", symmetric = \"false\", largeop = \"false
+\", movablelimits = \"false\", accent = \"false\", lspace = \"0.277777
+8em\", rspace = \"0.2777778em\"), Typesetting:-mo(\"'\", mathvariant =
+ \"normal\", fence = \"false\", separator = \"false\", stretchy = \"fa
+lse\", symmetric = \"false\", largeop = \"false\", movablelimits = \"f
+alse\", accent = \"false\", lspace = \"0.1111111em\", rspace = \"0.0em
+\"), Typesetting:-mi(\"Cube_rotation\", italic = \"true\", mathvariant
+ = \"italic\"), Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-mi
+(\"StickM\", italic = \"true\", mathvariant = \"italic\"), Typesetting
+:-mo(\",\", mathvariant = \"normal\", fence = \"false\", separator = \+
+\"true\", stretchy = \"false\", symmetric = \"false\", largeop = \"fal
+se\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0em
+\", rspace = \"0.3333333em\"), Typesetting:-mo(\" \", mathvariant = \"
+normal\", fence = \"false\", separator = \"false\", stretchy = \"false
+\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fals
+e\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Type
+setting:-mi(\"cubes3d\", italic = \"true\", mathvariant = \"italic\"),
+ Typesetting:-mo(\",\", mathvariant = \"normal\", fence = \"false\", s
+eparator = \"true\", stretchy = \"false\", symmetric = \"false\", larg
+eop = \"false\", movablelimits = \"false\", accent = \"false\", lspace
+ = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mo(\" \", mathva
+riant = \"normal\", fence = \"false\", separator = \"false\", stretchy
+ = \"false\", symmetric = \"false\", largeop = \"false\", movablelimit
+s = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0e
+m\"), Typesetting:-mi(\"stickers\", italic = \"true\", mathvariant = \+
+\"italic\"), Typesetting:-mo(\",\", mathvariant = \"normal\", fence = \+
+\"false\", separator = \"true\", stretchy = \"false\", symmetric = \"f
+alse\", largeop = \"false\", movablelimits = \"false\", accent = \"fal
+se\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mo(
+\" \", mathvariant = \"normal\", fence = \"false\", separator = \"fals
+e\", stretchy = \"false\", symmetric = \"false\", largeop = \"false\",
+ movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rs
+pace = \"0.0em\"), Typesetting:-ms(\"L\"), Typesetting:-mi(\"\")), mat
+hvariant = \"normal\"), Typesetting:-mo(\"'\", mathvariant = \"normal
+\", fence = \"false\", separator = \"false\", stretchy = \"false\", sy
+mmetric = \"false\", largeop = \"false\", movablelimits = \"false\", a
+ccent = \"false\", lspace = \"0.1111111em\", rspace = \"0.0em\"), Type
+setting:-mspace(height = \"0.0ex\", width = \"0.0em\", depth = \"0.0ex
+\", linebreak = \"newline\"), Typesetting:-mspace(height = \"0.0ex\", \+
+width = \"0.0em\", depth = \"0.0ex\", linebreak = \"auto\"), Typesetti
+ng:-mi(\"\")), mathvariant = \"normal\"), Typesetting:-mo(\" \", mathv
+ariant = \"normal\", fence = \"false\", separator = \"false\", stretch
+y = \"false\", symmetric = \"false\", largeop = \"false\", movablelimi
+ts = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0
+em\"), Typesetting:-mo(\"end\", bold = \"true\", mathvariant = \"bold
+\", fontweight = \"bold\", fence = \"false\", separator = \"false\", s
+tretchy = \"false\", symmetric = \"false\", largeop = \"false\", movab
+lelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace =
+ \"0.0em\"), Typesetting:-mo(\" \", mathvariant = \"normal\", fence = \+
+\"false\", separator = \"false\", stretchy = \"false\", symmetric = \"
+false\", largeop = \"false\", movablelimits = \"false\", accent = \"fa
+lse\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mo(\"proc
+\", bold = \"true\", mathvariant = \"bold\", fontweight = \"bold\", fe
+nce = \"false\", separator = \"false\", stretchy = \"false\", symmetri
+c = \"false\", largeop = \"false\", movablelimits = \"false\", accent \+
+= \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mo(
+\":\", mathvariant = \"normal\", fence = \"false\", separator = \"fals
+e\", stretchy = \"false\", symmetric = \"false\", largeop = \"false\",
+ movablelimits = \"false\", accent = \"false\", lspace = \"0.2777778em
+\", rspace = \"0.2777778em\"), Typesetting:-mo(\" \", mathvariant = \"
+normal\", fence = \"false\", separator = \"false\", stretchy = \"false
+\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fals
+e\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"));" "-
+I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'64-I#miGF$6%Q#G2F'
+/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-I#moGF$6-Q*&coloneq;F'/F3Q
+'normalF'/%&fenceGQ&falseF'/%*separatorGF=/%)stretchyGF=/%*symmetricGF
+=/%(largeopGF=/%.movablelimitsGF=/%'accentGF=/%'lspaceGQ,0.2777778emF'
+/%'rspaceGFL-F66/Q%procF'/%%boldGF1/F3Q%boldF'/%+fontweightGFUF;F>F@FB
+FDFFFH/FKQ&0.0emF'/FNFY-I(mfencedGF$6$-F#6#-F,6#Q!F'F9-F66-Q\":F'F9F;F
+>F@FBFDFFFHFJFM-F66-Q\"~F'F9F;F>F@FBFDFFFHFXFZ-F,6%Q(MapletsF'F/F2-F66
+-Q#:-F'F9F;F>F@FBFDFFFHFXFZ-F,6%Q&ToolsF'F/F2Ffo-F,6%Q$SetF'F/F2-Ffn6$
+-F#6--F66-Q\"'F'F9F;F>F@FBFDFFFH/FKQ,0.1111111emF'FZ-F,6%Q%plotF'F/F2F
+cp-F66-Q\"=F'F9F;F>F@FBFDFFFHFJFMFcp-F,6%Q.Cube_rotationF'F/F2-Ffn6$-F
+#6--F,6%Q'StickMF'F/F2-F66-Q\",F'F9F;/F?F1F@FBFDFFFHFX/FNQ,0.3333333em
+F'F`o-F,6%Q(cubes3dF'F/F2FhqF`o-F,6%Q)stickersF'F/F2FhqF`o-I#msGF$6#Q
+\"LF'FjnF9Fcp-I'mspaceGF$6&/%'heightGQ&0.0exF'/%&widthGFY/%&depthGF]s/
+%*linebreakGQ(newlineF'-Fir6&F[sF^sF`s/FcsQ%autoF'FjnF9F`o-F66/Q$endF'
+FRFTFVF;F>F@FBFDFFFHFXFZF`oFOF]oF`o" }}}{EXCHG {PARA 0 "> " 0 "" 
+{XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:-mi(\"G\", italic = \"tru
+e\", mathvariant = \"italic\"), Typesetting:-mo(\"&coloneq;\", mathvar
+iant = \"normal\", fence = \"false\", separator = \"false\", stretchy \+
+= \"false\", symmetric = \"false\", largeop = \"false\", movablelimits
+ = \"false\", accent = \"false\", lspace = \"0.2777778em\", rspace = \+
+\"0.2777778em\"), Typesetting:-mo(\"proc\", bold = \"true\", mathvaria
+nt = \"bold\", fontweight = \"bold\", fence = \"false\", separator = \+
+\"false\", stretchy = \"false\", symmetric = \"false\", largeop = \"fa
+lse\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0em
+\", rspace = \"0.0em\"), Typesetting:-mfenced(Typesetting:-mrow(Typese
+tting:-mi(\"\")), mathvariant = \"normal\"), Typesetting:-mo(\":\", ma
+thvariant = \"normal\", fence = \"false\", separator = \"false\", stre
+tchy = \"false\", symmetric = \"false\", largeop = \"false\", movablel
+imits = \"false\", accent = \"false\", lspace = \"0.2777778em\", rspac
+e = \"0.2777778em\"), Typesetting:-mo(\" \", mathvariant = \"normal\",
+ fence = \"false\", separator = \"false\", stretchy = \"false\", symme
+tric = \"false\", largeop = \"false\", movablelimits = \"false\", acce
+nt = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-
+mi(\"Maplets\", italic = \"true\", mathvariant = \"italic\"), Typesett
+ing:-mo(\":-\", mathvariant = \"normal\", fence = \"false\", separator
+ = \"false\", stretchy = \"false\", symmetric = \"false\", largeop = \+
+\"false\", movablelimits = \"false\", accent = \"false\", lspace = \"0
+.0em\", rspace = \"0.0em\"), Typesetting:-mi(\"Tools\", italic = \"tru
+e\", mathvariant = \"italic\"), Typesetting:-mo(\":-\", mathvariant = \+
+\"normal\", fence = \"false\", separator = \"false\", stretchy = \"fal
+se\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fa
+lse\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Ty
+pesetting:-mi(\"Set\", italic = \"true\", mathvariant = \"italic\"), T
+ypesetting:-mfenced(Typesetting:-mrow(Typesetting:-mo(\"'\", mathvaria
+nt = \"normal\", fence = \"false\", separator = \"false\", stretchy = \+
+\"false\", symmetric = \"false\", largeop = \"false\", movablelimits =
+ \"false\", accent = \"false\", lspace = \"0.1111111em\", rspace = \"0
+.0em\"), Typesetting:-mi(\"TB1\", italic = \"true\", mathvariant = \"i
+talic\"), Typesetting:-mo(\"'\", mathvariant = \"normal\", fence = \"f
+alse\", separator = \"false\", stretchy = \"false\", symmetric = \"fal
+se\", largeop = \"false\", movablelimits = \"false\", accent = \"false
+\", lspace = \"0.1111111em\", rspace = \"0.0em\"), Typesetting:-mo(\" \+
+\", mathvariant = \"normal\", fence = \"false\", separator = \"false\"
+, stretchy = \"false\", symmetric = \"false\", largeop = \"false\", mo
+vablelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rspac
+e = \"0.0em\"), Typesetting:-mo(\"=\", mathvariant = \"normal\", fence
+ = \"false\", separator = \"false\", stretchy = \"false\", symmetric =
+ \"false\", largeop = \"false\", movablelimits = \"false\", accent = \+
+\"false\", lspace = \"0.2777778em\", rspace = \"0.2777778em\"), Typese
+tting:-mo(\" \", mathvariant = \"normal\", fence = \"false\", separato
+r = \"false\", stretchy = \"false\", symmetric = \"false\", largeop = \+
+\"false\", movablelimits = \"false\", accent = \"false\", lspace = \"0
+.0em\", rspace = \"0.0em\"), Typesetting:-mi(\"Maplets\", italic = \"t
+rue\", mathvariant = \"italic\"), Typesetting:-mo(\":-\", mathvariant \+
+= \"normal\", fence = \"false\", separator = \"false\", stretchy = \"f
+alse\", symmetric = \"false\", largeop = \"false\", movablelimits = \"
+false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), \+
+Typesetting:-mi(\"Tools\", italic = \"true\", mathvariant = \"italic\"
+), Typesetting:-mo(\":-\", mathvariant = \"normal\", fence = \"false\"
+, separator = \"false\", stretchy = \"false\", symmetric = \"false\", \+
+largeop = \"false\", movablelimits = \"false\", accent = \"false\", ls
+pace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mi(\"Get\", italic
+ = \"true\", mathvariant = \"italic\"), Typesetting:-mfenced(Typesetti
+ng:-mrow(Typesetting:-mo(\"'\", mathvariant = \"normal\", fence = \"fa
+lse\", separator = \"false\", stretchy = \"false\", symmetric = \"fals
+e\", largeop = \"false\", movablelimits = \"false\", accent = \"false
+\", lspace = \"0.1111111em\", rspace = \"0.0em\"), Typesetting:-mi(\"S
+L1\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-mo(\"
+'\", mathvariant = \"normal\", fence = \"false\", separator = \"false
+\", stretchy = \"false\", symmetric = \"false\", largeop = \"false\", \+
+movablelimits = \"false\", accent = \"false\", lspace = \"0.1111111em
+\", rspace = \"0.0em\"), Typesetting:-mo(\"&Proportion;\", mathvariant
+ = \"normal\", fence = \"false\", separator = \"false\", stretchy = \"
+false\", symmetric = \"false\", largeop = \"false\", movablelimits = \+
+\"false\", accent = \"false\", lspace = \"0.2777778em\", rspace = \"0.
+2777778em\"), Typesetting:-mi(\"integer\", italic = \"true\", mathvari
+ant = \"italic\")), mathvariant = \"normal\"), Typesetting:-mo(\" \", \+
+mathvariant = \"normal\", fence = \"false\", separator = \"false\", st
+retchy = \"false\", symmetric = \"false\", largeop = \"false\", movabl
+elimits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \+
+\"0.0em\")), mathvariant = \"normal\"), Typesetting:-mo(\" \", mathvar
+iant = \"normal\", fence = \"false\", separator = \"false\", stretchy \+
+= \"false\", symmetric = \"false\", largeop = \"false\", movablelimits
+ = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em
+\"), Typesetting:-mo(\"end\", bold = \"true\", mathvariant = \"bold\",
+ fontweight = \"bold\", fence = \"false\", separator = \"false\", stre
+tchy = \"false\", symmetric = \"false\", largeop = \"false\", movablel
+imits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"
+0.0em\"), Typesetting:-mo(\" \", mathvariant = \"normal\", fence = \"f
+alse\", separator = \"false\", stretchy = \"false\", symmetric = \"fal
+se\", largeop = \"false\", movablelimits = \"false\", accent = \"false
+\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mo(\"proc\",
+ bold = \"true\", mathvariant = \"bold\", fontweight = \"bold\", fence
+ = \"false\", separator = \"false\", stretchy = \"false\", symmetric =
+ \"false\", largeop = \"false\", movablelimits = \"false\", accent = \+
+\"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mo(\"
+:\", mathvariant = \"normal\", fence = \"false\", separator = \"false
+\", stretchy = \"false\", symmetric = \"false\", largeop = \"false\", \+
+movablelimits = \"false\", accent = \"false\", lspace = \"0.2777778em
+\", rspace = \"0.2777778em\"));" "-I%mrowG6#/I+modulenameG6\"I,Typeset
+tingGI(_syslibGF'63-I#miGF$6%Q\"GF'/%'italicGQ%trueF'/%,mathvariantGQ'
+italicF'-I#moGF$6-Q*&coloneq;F'/F3Q'normalF'/%&fenceGQ&falseF'/%*separ
+atorGF=/%)stretchyGF=/%*symmetricGF=/%(largeopGF=/%.movablelimitsGF=/%
+'accentGF=/%'lspaceGQ,0.2777778emF'/%'rspaceGFL-F66/Q%procF'/%%boldGF1
+/F3Q%boldF'/%+fontweightGFUF;F>F@FBFDFFFH/FKQ&0.0emF'/FNFY-I(mfencedGF
+$6$-F#6#-F,6#Q!F'F9-F66-Q\":F'F9F;F>F@FBFDFFFHFJFM-F66-Q\"~F'F9F;F>F@F
+BFDFFFHFXFZ-F,6%Q(MapletsF'F/F2-F66-Q#:-F'F9F;F>F@FBFDFFFHFXFZ-F,6%Q&T
+oolsF'F/F2Ffo-F,6%Q$SetF'F/F2-Ffn6$-F#6/-F66-Q\"'F'F9F;F>F@FBFDFFFH/FK
+Q,0.1111111emF'FZ-F,6%Q$TB1F'F/F2FcpF`o-F66-Q\"=F'F9F;F>F@FBFDFFFHFJFM
+F`oFcoFfoFioFfo-F,6%Q$GetF'F/F2-Ffn6$-F#6'Fcp-F,6%Q$SL1F'F/F2Fcp-F66-Q
+-&Proportion;F'F9F;F>F@FBFDFFFHFJFM-F,6%Q(integerF'F/F2F9F`oF9F`o-F66/
+Q$endF'FRFTFVF;F>F@FBFDFFFHFXFZF`oFOF]o" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 24 "with(Maplets[Elements]):" }}}{EXCHG {PARA 0 "> " 0 ""
+ {MPLTEXT 1 0 20 "maplet2b := Maplet(\n" }{MPLTEXT 1 0 43 "'onstartup'
+ = Action(RunWindow('Game')),  \n" }{MPLTEXT 1 0 35 "Action['St'](RunW
+indow('Start')), \n" }{MPLTEXT 1 0 18 "Window['Start']([\n" }{MPLTEXT 
+1 0 72 "    Button(\"\310\343\360\340\362\374\", Action(CloseWindow('S
+tart'), RunWindow('Game')) ),\n" }{MPLTEXT 1 0 78 "    Button(\"\316 \+
+\357\360\356\343\360\340\354\354\345\", Action(CloseWindow('Start'), R
+unWindow('About')) ),\n" }{MPLTEXT 1 0 32 "    Button(\"\302\373\351\3
+62\350\", Shutdown())\n" }{MPLTEXT 1 0 5 "] ),\n" }{MPLTEXT 1 0 37 "Wi
+ndow['Help']('title' = \"\317\356\354\356\371\374\", [\n" }{MPLTEXT 1 
+0 4 "    " }{MPLTEXT 1 0 29 "GridLayout( halign = center,\n" }{MPLTEXT
+ 1 0 4 "    " }{MPLTEXT 1 0 9 "GridRow(\n" }{MPLTEXT 1 0 4 "    " }
+{MPLTEXT 1 0 14 "    GridCell(\n" }{MPLTEXT 1 0 56 "        Label(Imag
+e(cat(currentdir(),\"\\\\notation.jpg\")))" }{MPLTEXT 1 0 1 "\n" }
+{MPLTEXT 1 0 6 "    )\n" }{MPLTEXT 1 0 6 "    )," }{MPLTEXT 1 0 1 "\n"
+ }{MPLTEXT 1 0 4 "    " }{MPLTEXT 1 0 9 "GridRow(\n" }{MPLTEXT 1 0 18 
+"        GridCell(\n" }{MPLTEXT 1 0 16 "        \"\\n \\n\"\n" }
+{MPLTEXT 1 0 6 "    )\n" }{MPLTEXT 1 0 7 "    ),\n" }{MPLTEXT 1 0 13 "
+    GridRow(\n" }{MPLTEXT 1 0 18 "        GridCell(\n" }{MPLTEXT 1 0 
+8 "        " }{MPLTEXT 1 0 48 "Button(\"\302\345\360\355\363\362\374\3
+61\377\", Action(CloseWindow('Help')))" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT
+ 1 0 5 "    )" }{MPLTEXT 1 0 2 " \n" }{MPLTEXT 1 0 6 "    )\n" }
+{MPLTEXT 1 0 6 "    )\n" }{MPLTEXT 1 0 3 "])," }{MPLTEXT 1 0 1 "\n" }
+{MPLTEXT 1 0 43 "Window['About']('title' = \"\316 \357\360\356\343\360
+\340\354\354\345\", [\n" }{MPLTEXT 1 0 4 "    " }{MPLTEXT 1 0 28 "Grid
+Layout( halign = center," }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 4 "    " 
+}{MPLTEXT 1 0 9 "GridRow(\n" }{MPLTEXT 1 0 17 "        GridCell(" }
+{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 39 "        \"\317\360\356\345\352\3
+62 \\\"\312\363\341\350\352 \320\363\341\350\352\340\\\"\\n \\n\"\n" }
+{MPLTEXT 1 0 6 "    )\n" }{MPLTEXT 1 0 4 "    " }{MPLTEXT 1 0 2 ")," }
+{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 4 "    " }{MPLTEXT 1 0 9 "GridRow(\n
+" }{MPLTEXT 1 0 17 "        GridCell(" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 
+1 0 24 "        \"\300\342\362\356\360 : \361\362\363\344\345\355\362"
+ }{MPLTEXT 1 0 41 " 313 \343\360\363\357\357\373 \317\345\362\360\356
+\342 \304\354\350\362\360\350\351 \302\353\340\344\350\354\350\360\356
+\342\350\367\"\n" }{MPLTEXT 1 0 6 "    )\n" }{MPLTEXT 1 0 4 "    " }
+{MPLTEXT 1 0 2 ")," }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 4 "    " }
+{MPLTEXT 1 0 9 "GridRow(\n" }{MPLTEXT 1 0 18 "        GridCell(\n" }
+{MPLTEXT 1 0 42 "        \"\317\356\367\362\340 : g1232234@gmail.com
+\\n \\n\"\n" }{MPLTEXT 1 0 6 "    )\n" }{MPLTEXT 1 0 6 "    )," }
+{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 4 "    " }{MPLTEXT 1 0 9 "GridRow(\n
+" }{MPLTEXT 1 0 18 "        GridCell(\n" }{MPLTEXT 1 0 72 "        \"
+\314\316\321\312\316\302\321\312\310\311 \303\316\321\323\304\300\320
+\321\322\302\305\315\315\333\311 \323\315\310\302\305\320\321\310\322
+\305\322 \350\354\345\355\350 M. \302. \313\356\354\356\355\356\361\35
+6\342\340\"\n" }{MPLTEXT 1 0 6 "    )\n" }{MPLTEXT 1 0 6 "    )," }
+{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 4 "    " }{MPLTEXT 1 0 9 "GridRow(\n
+" }{MPLTEXT 1 0 18 "        GridCell(\n" }{MPLTEXT 1 0 60 "        \"
+\324\340\352\363\353\374\362\345\362 \342\373\367\350\361\353\350\362
+\345\353\374\355\356\351 \354\340\362\345\354\340\362\350\352\350 \350
+ \352\350\341\345\360\355\345\362\350\352\350\"\n" }{MPLTEXT 1 0 6 "  \+
+  )\n" }{MPLTEXT 1 0 6 "    )," }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 4 "
+    " }{MPLTEXT 1 0 9 "GridRow(\n" }{MPLTEXT 1 0 18 "        GridCell(
+\n" }{MPLTEXT 1 0 47 "        \"\312\340\364\345\344\360\340 \316\357
+\362\350\354\340\353\374\355\356\343\356 \363\357\360\340\342\353\345
+\355\350\377\\n \\n\"\n" }{MPLTEXT 1 0 6 "    )\n" }{MPLTEXT 1 0 6 "  \+
+  )," }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 4 "    " }{MPLTEXT 1 0 9 "Gri
+dRow(\n" }{MPLTEXT 1 0 18 "        GridCell(\n" }{MPLTEXT 1 0 24 "    \+
+    \"2022 \343\356\344\\n \\n\"\n" }{MPLTEXT 1 0 6 "    )\n" }
+{MPLTEXT 1 0 6 "    )," }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 4 "    " }
+{MPLTEXT 1 0 9 "GridRow(\n" }{MPLTEXT 1 0 18 "        GridCell(\n" }
+{MPLTEXT 1 0 56 "        Label(Image(cat(currentdir(),\"\\\\IMG_1239.j
+pg\")))" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 6 "    )\n" }{MPLTEXT 1 0 
+6 "    )," }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 4 "    " }{MPLTEXT 1 0 
+9 "GridRow(\n" }{MPLTEXT 1 0 18 "        GridCell(\n" }{MPLTEXT 1 0 
+16 "        \"\\n \\n\"\n" }{MPLTEXT 1 0 6 "    )\n" }{MPLTEXT 1 0 6 "
+    )," }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 4 "    " }{MPLTEXT 1 0 9 "G
+ridRow(\n" }{MPLTEXT 1 0 18 "        GridCell(\n" }{MPLTEXT 1 0 8 "   \+
+     " }{MPLTEXT 1 0 49 "Button(\"\302\345\360\355\363\362\374\361\377
+\", Action(CloseWindow('About')))" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 
+6 "    )\n" }{MPLTEXT 1 0 5 "    )" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 
+0 6 "    )\n" }{MPLTEXT 1 0 4 "]),\n" }{MPLTEXT 1 0 60 "Window['Game']
+('title' = \"\312\363\341\350\352 \320\363\341\350\352\340\", 'menubar
+'='MB1', [\n" }{MPLTEXT 1 0 4 "    " }{MPLTEXT 1 0 50 "MenuBar['MB1'](
+Menu(\"\314\345\355\376\",MenuItem(\"\316 \357\360\356\343\360\340\354
+\354\345\"," }{MPLTEXT 1 0 18 "RunWindow('About')" }{MPLTEXT 1 0 2 "),
+" }{MPLTEXT 1 0 18 "MenuItem(\"\317\356\354\356\371\374\"," }{MPLTEXT 
+1 0 17 "RunWindow('Help')" }{MPLTEXT 1 0 3 "), " }{MPLTEXT 1 0 26 "Men
+uItem(\"\302\373\351\362\350\",Shutdown(" }{MPLTEXT 1 0 2 ") " }
+{MPLTEXT 1 0 4 ")))," }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 4 "    " }
+{MPLTEXT 1 0 53 "GridLayout( halign = center, border = true, inset =3,
+" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 4 "    " }{MPLTEXT 1 0 9 "GridRow
+(\n" }{MPLTEXT 1 0 17 "        GridCell(" }{MPLTEXT 1 0 1 "\n" }
+{MPLTEXT 1 0 21 "    Plotter['plot'](\n" }{MPLTEXT 1 0 46 "        Dra
+w_cube(StickM, cubes3d, stickers),\n" }{MPLTEXT 1 0 21 "        play =
+ true,\n" }{MPLTEXT 1 0 28 "        continuous = false,\n" }{MPLTEXT 
+1 0 18 "        delay = 60" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 18 "   \+
+ ), width = 7)\n" }{MPLTEXT 1 0 6 "    )," }{MPLTEXT 1 0 1 "\n" }
+{MPLTEXT 1 0 5 "    \n" }{MPLTEXT 1 0 13 "    GridRow(\n" }{MPLTEXT 1 
+0 17 "        GridCell(" }{MPLTEXT 1 0 28 "Button(\"\313\",Evaluate('p
+lot'='" }{MPLTEXT 1 0 46 "Cube_rotation(StickM, cubes3d, stickers, \"L
+\", " }{MPLTEXT 1 0 5 "Moves" }{MPLTEXT 1 0 3 ")')" }{MPLTEXT 1 0 12 "
+, width = 60" }{MPLTEXT 1 0 1 ")" }{MPLTEXT 1 0 3 "),\n" }{MPLTEXT 1 
+0 8 "        " }{MPLTEXT 1 0 9 "GridCell(" }{MPLTEXT 1 0 28 "Button(\"
+\317\",Evaluate('plot'='" }{MPLTEXT 1 0 44 "Cube_rotation(StickM, cube
+s3d, stickers, \"R\"" }{MPLTEXT 1 0 2 ", " }{MPLTEXT 1 0 5 "Moves" }
+{MPLTEXT 1 0 3 ")')" }{MPLTEXT 1 0 12 ", width = 60" }{MPLTEXT 1 0 4 "
+)),\n" }{MPLTEXT 1 0 8 "        " }{MPLTEXT 1 0 37 "GridCell(Button(\"
+\302\",Evaluate('plot'='" }{MPLTEXT 1 0 44 "Cube_rotation(StickM, cube
+s3d, stickers, \"U\"" }{MPLTEXT 1 0 2 ", " }{MPLTEXT 1 0 5 "Moves" }
+{MPLTEXT 1 0 3 ")')" }{MPLTEXT 1 0 12 ", width = 60" }{MPLTEXT 1 0 1 "
+)" }{MPLTEXT 1 0 3 "),\n" }{MPLTEXT 1 0 8 "        " }{MPLTEXT 1 0 37 
+"GridCell(Button(\"\315\",Evaluate('plot'='" }{MPLTEXT 1 0 44 "Cube_ro
+tation(StickM, cubes3d, stickers, \"D\"" }{MPLTEXT 1 0 2 ", " }
+{MPLTEXT 1 0 5 "Moves" }{MPLTEXT 1 0 3 ")')" }{MPLTEXT 1 0 12 ", width
+ = 60" }{MPLTEXT 1 0 1 ")" }{MPLTEXT 1 0 3 "),\n" }{MPLTEXT 1 0 8 "   \+
+     " }{MPLTEXT 1 0 37 "GridCell(Button(\"\324\",Evaluate('plot'='" }
+{MPLTEXT 1 0 44 "Cube_rotation(StickM, cubes3d, stickers, \"F\"" }
+{MPLTEXT 1 0 2 ", " }{MPLTEXT 1 0 5 "Moves" }{MPLTEXT 1 0 3 ")')" }
+{MPLTEXT 1 0 12 ", width = 60" }{MPLTEXT 1 0 4 ")),\n" }{MPLTEXT 1 0 
+8 "        " }{MPLTEXT 1 0 37 "GridCell(Button(\"\307\",Evaluate('plot
+'='" }{MPLTEXT 1 0 44 "Cube_rotation(StickM, cubes3d, stickers, \"B\""
+ }{MPLTEXT 1 0 2 ", " }{MPLTEXT 1 0 5 "Moves" }{MPLTEXT 1 0 3 ")')" }
+{MPLTEXT 1 0 12 ", width = 60" }{MPLTEXT 1 0 1 ")" }{MPLTEXT 1 0 2 ")
+\n" }{MPLTEXT 1 0 6 "    )," }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 4 "   \+
+ " }{MPLTEXT 1 0 9 "GridRow(\n" }{MPLTEXT 1 0 17 "        GridCell(" }
+{MPLTEXT 1 0 74 "Button(\"\313'\",Evaluate('plot'='Cube_rotation(Stick
+M, cubes3d, stickers, \"L'\"" }{MPLTEXT 1 0 2 ", " }{MPLTEXT 1 0 5 "Mo
+ves" }{MPLTEXT 1 0 3 ")')" }{MPLTEXT 1 0 12 ", width = 60" }{MPLTEXT 
+1 0 4 ")),\n" }{MPLTEXT 1 0 91 "        GridCell(Button(\"\317'\",Eval
+uate('plot'='Cube_rotation(StickM, cubes3d, stickers, \"R'\"" }
+{MPLTEXT 1 0 2 ", " }{MPLTEXT 1 0 5 "Moves" }{MPLTEXT 1 0 3 ")')" }
+{MPLTEXT 1 0 12 ", width = 60" }{MPLTEXT 1 0 4 ")),\n" }{MPLTEXT 1 0 
+91 "        GridCell(Button(\"\302'\",Evaluate('plot'='Cube_rotation(S
+tickM, cubes3d, stickers, \"U'\"" }{MPLTEXT 1 0 2 ", " }{MPLTEXT 1 0 
+5 "Moves" }{MPLTEXT 1 0 3 ")')" }{MPLTEXT 1 0 12 ", width = 60" }
+{MPLTEXT 1 0 4 ")),\n" }{MPLTEXT 1 0 91 "        GridCell(Button(\"\31
+5'\",Evaluate('plot'='Cube_rotation(StickM, cubes3d, stickers, \"D'\""
+ }{MPLTEXT 1 0 2 ", " }{MPLTEXT 1 0 5 "Moves" }{MPLTEXT 1 0 3 ")')" }
+{MPLTEXT 1 0 12 ", width = 60" }{MPLTEXT 1 0 4 ")),\n" }{MPLTEXT 1 0 
+91 "        GridCell(Button(\"\324'\",Evaluate('plot'='Cube_rotation(S
+tickM, cubes3d, stickers, \"F'\"" }{MPLTEXT 1 0 2 ", " }{MPLTEXT 1 0 
+5 "Moves" }{MPLTEXT 1 0 3 ")')" }{MPLTEXT 1 0 12 ", width = 60" }
+{MPLTEXT 1 0 4 ")),\n" }{MPLTEXT 1 0 91 "        GridCell(Button(\"\30
+7'\",Evaluate('plot'='Cube_rotation(StickM, cubes3d, stickers, \"B'\""
+ }{MPLTEXT 1 0 2 ", " }{MPLTEXT 1 0 5 "Moves" }{MPLTEXT 1 0 3 ")')" }
+{MPLTEXT 1 0 12 ", width = 60" }{MPLTEXT 1 0 3 "))\n" }{MPLTEXT 1 0 6 
+"    )," }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 4 "    " }{MPLTEXT 1 0 9 "
+GridRow(\n" }{MPLTEXT 1 0 89 "        GridCell(Button(\"\314\",Evaluat
+e('plot'='Cube_rotation(StickM, cubes3d, stickers, \"M\"" }{MPLTEXT 1 
+0 2 ", " }{MPLTEXT 1 0 5 "Moves" }{MPLTEXT 1 0 5 ")'), " }{MPLTEXT 1 
+0 22 "background=\"#ADD8E6\", " }{MPLTEXT 1 0 14 "width = 60)),\n" }
+{MPLTEXT 1 0 89 "        GridCell(Button(\"\305\",Evaluate('plot'='Cub
+e_rotation(StickM, cubes3d, stickers, \"E\"" }{MPLTEXT 1 0 2 ", " }
+{MPLTEXT 1 0 5 "Moves" }{MPLTEXT 1 0 5 ")'), " }{MPLTEXT 1 0 22 "backg
+round=\"#ADD8E6\", " }{MPLTEXT 1 0 14 "width = 60)),\n" }{MPLTEXT 1 0 
+89 "        GridCell(Button(\"\321\",Evaluate('plot'='Cube_rotation(St
+ickM, cubes3d, stickers, \"S\"" }{MPLTEXT 1 0 2 ", " }{MPLTEXT 1 0 5 "
+Moves" }{MPLTEXT 1 0 5 ")'), " }{MPLTEXT 1 0 22 "background=\"#ADD8E6
+\", " }{MPLTEXT 1 0 14 "width = 60)),\n" }{MPLTEXT 1 0 89 "        Gri
+dCell(Button(\"X\",Evaluate('plot'='Cube_rotation(StickM, cubes3d, sti
+ckers, \"X\"" }{MPLTEXT 1 0 2 ", " }{MPLTEXT 1 0 5 "Moves" }{MPLTEXT 
+1 0 5 ")'), " }{MPLTEXT 1 0 22 "background=\"#FFA07A\", " }{MPLTEXT 1 
+0 14 "width = 60)),\n" }{MPLTEXT 1 0 89 "        GridCell(Button(\"Y\"
+,Evaluate('plot'='Cube_rotation(StickM, cubes3d, stickers, \"Y\"" }
+{MPLTEXT 1 0 2 ", " }{MPLTEXT 1 0 5 "Moves" }{MPLTEXT 1 0 5 ")'), " }
+{MPLTEXT 1 0 22 "background=\"#FFA07A\", " }{MPLTEXT 1 0 14 "width = 6
+0)),\n" }{MPLTEXT 1 0 89 "        GridCell(Button(\"Z\",Evaluate('plot
+'='Cube_rotation(StickM, cubes3d, stickers, \"Z\"" }{MPLTEXT 1 0 2 ", 
+" }{MPLTEXT 1 0 5 "Moves" }{MPLTEXT 1 0 5 ")'), " }{MPLTEXT 1 0 22 "ba
+ckground=\"#FFA07A\", " }{MPLTEXT 1 0 13 "width = 60))\n" }{MPLTEXT 1 
+0 6 "    )," }{MPLTEXT 1 0 4 "   \n" }{MPLTEXT 1 0 4 "    " }{MPLTEXT 
+1 0 9 "GridRow(\n" }{MPLTEXT 1 0 91 "        GridCell(Button(\"\314'\"
+,Evaluate('plot'='Cube_rotation(StickM, cubes3d, stickers, \"M'\"" }
+{MPLTEXT 1 0 2 ", " }{MPLTEXT 1 0 5 "Moves" }{MPLTEXT 1 0 5 ")'), " }
+{MPLTEXT 1 0 22 "background=\"#ADD8E6\", " }{MPLTEXT 1 0 14 "width = 6
+0)),\n" }{MPLTEXT 1 0 91 "        GridCell(Button(\"\305'\",Evaluate('
+plot'='Cube_rotation(StickM, cubes3d, stickers, \"E'\"" }{MPLTEXT 1 0 
+2 ", " }{MPLTEXT 1 0 5 "Moves" }{MPLTEXT 1 0 5 ")'), " }{MPLTEXT 1 0 
+22 "background=\"#ADD8E6\", " }{MPLTEXT 1 0 14 "width = 60)),\n" }
+{MPLTEXT 1 0 91 "        GridCell(Button(\"\321'\",Evaluate('plot'='Cu
+be_rotation(StickM, cubes3d, stickers, \"S'\"" }{MPLTEXT 1 0 2 ", " }
+{MPLTEXT 1 0 5 "Moves" }{MPLTEXT 1 0 5 ")'), " }{MPLTEXT 1 0 22 "backg
+round=\"#ADD8E6\", " }{MPLTEXT 1 0 14 "width = 60)),\n" }{MPLTEXT 1 0 
+91 "        GridCell(Button(\"X'\",Evaluate('plot'='Cube_rotation(Stic
+kM, cubes3d, stickers, \"X'\"" }{MPLTEXT 1 0 2 ", " }{MPLTEXT 1 0 5 "M
+oves" }{MPLTEXT 1 0 40 ")'), background=\"#FFA07A\",width = 60)),\n" }
+{MPLTEXT 1 0 91 "        GridCell(Button(\"Y'\",Evaluate('plot'='Cube_
+rotation(StickM, cubes3d, stickers, \"Y'\"" }{MPLTEXT 1 0 2 ", " }
+{MPLTEXT 1 0 5 "Moves" }{MPLTEXT 1 0 5 ")'), " }{MPLTEXT 1 0 22 "backg
+round=\"#FFA07A\", " }{MPLTEXT 1 0 14 "width = 60)),\n" }{MPLTEXT 1 0 
+91 "        GridCell(Button(\"Z'\",Evaluate('plot'='Cube_rotation(Stic
+kM, cubes3d, stickers, \"Z'\"" }{MPLTEXT 1 0 2 ", " }{MPLTEXT 1 0 5 "M
+oves" }{MPLTEXT 1 0 5 ")'), " }{MPLTEXT 1 0 22 "background=\"#FFA07A\"
+, " }{MPLTEXT 1 0 13 "width = 60))\n" }{MPLTEXT 1 0 6 "    )," }
+{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 13 "    GridRow(\n" }{MPLTEXT 1 0 8 
+"        " }{MPLTEXT 1 0 13 "GridCell(\"\")," }{MPLTEXT 1 0 1 "\n" }
+{MPLTEXT 1 0 17 "        GridCell(" }{MPLTEXT 1 0 47 "\"\312\356\353-
+\342\356 \344\342\350\346\345\355\350\351 \344\353\377 \360\340\347\34
+1\356\360\352\350 \352\363\341\350\352\340:\", width=3" }{MPLTEXT 1 0 
+3 "),\n" }{MPLTEXT 1 0 17 "        GridCell(" }{MPLTEXT 1 0 48 "TextBo
+x['TB1'](\"1\", editable = false, width = 3)" }{MPLTEXT 1 0 2 ")\n" }
+{MPLTEXT 1 0 7 "    ),\n" }{MPLTEXT 1 0 13 "    GridRow(\n" }{MPLTEXT 
+1 0 8 "        " }{MPLTEXT 1 0 9 "GridCell(" }{MPLTEXT 1 0 171 "Slider
+['SL1'](lower = 1, upper = 30, value = 1,'showticks'= true, 'minortick
+s'=1,'majorticks'=29,'snapticks'=true, onchange = Action(Evaluate('fun
+ction'='G()')) ), width=7" }{MPLTEXT 1 0 1 ")" }{MPLTEXT 1 0 1 "\n" }
+{MPLTEXT 1 0 7 "    ),\n" }{MPLTEXT 1 0 4 "    " }{MPLTEXT 1 0 9 "Grid
+Row(\n" }{MPLTEXT 1 0 17 "        GridCell(" }{MPLTEXT 1 0 32 "Button(
+width = 120, \"\320\340\347\356\341\360\340\362\374\"," }{MPLTEXT 1 0 
+100 "Evaluate('plot'='Scramble(StickM, cubes3d, stickers, convert('SL1
+', integer), Moves) ' )), width = 2" }{MPLTEXT 1 0 3 "),\n" }{MPLTEXT 
+1 0 8 "        " }{MPLTEXT 1 0 9 "GridCell(" }{MPLTEXT 1 0 7 "Button("
+ }{MPLTEXT 1 0 12 "width = 120," }{MPLTEXT 1 0 11 "\"\321\341\360\356
+\361\350\362\374\"," }{MPLTEXT 1 0 72 "Evaluate('plot'='Reset(StickM, \+
+cubes3d, stickers, Moves) ' )), width = 2" }{MPLTEXT 1 0 2 ")," }
+{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 8 "        " }{MPLTEXT 1 0 9 "GridCe
+ll(" }{MPLTEXT 1 0 1 " " }{MPLTEXT 1 0 7 "Button(" }{MPLTEXT 1 0 12 "w
+idth = 120," }{MPLTEXT 1 0 10 "\"\321\356\341\360\340\362\374\"," }
+{MPLTEXT 1 0 71 "Evaluate('plot'='Solve(StickM, cubes3d, stickers, Mov
+es)' )), width = 2" }{MPLTEXT 1 0 1 ")" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT
+ 1 0 5 "    )" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 5 "    )" }{MPLTEXT 
+1 0 1 "\n" }{MPLTEXT 1 0 3 "])\n" }{MPLTEXT 1 0 2 "):" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 29 "Maplets[Display]( maplet2b );" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 ""
+ {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesett
+ing:-mrow(Typesetting:-mo(\" \", mathvariant = \"normal\", fence = \"f
+alse\", separator = \"false\", stretchy = \"false\", symmetric = \"fal
+se\", largeop = \"false\", movablelimits = \"false\", accent = \"false
+\", lspace = \"0.0em\", rspace = \"0.0em\"));" "-I%mrowG6#/I+modulenam
+eG6\"I,TypesettingGI(_syslibGF'6#-I#moGF$6-Q\"~F'/%,mathvariantGQ'norm
+alF'/%&fenceGQ&falseF'/%*separatorGF4/%)stretchyGF4/%*symmetricGF4/%(l
+argeopGF4/%.movablelimitsGF4/%'accentGF4/%'lspaceGQ&0.0emF'/%'rspaceGF
+C" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:-mrow(Typese
+tting:-mo(\" \", mathvariant = \"normal\", fence = \"false\", separato
+r = \"false\", stretchy = \"false\", symmetric = \"false\", largeop = \+
+\"false\", movablelimits = \"false\", accent = \"false\", lspace = \"0
+.0em\", rspace = \"0.0em\"));" "-I%mrowG6#/I+modulenameG6\"I,Typesetti
+ngGI(_syslibGF'6#-I#moGF$6-Q\"~F'/%,mathvariantGQ'normalF'/%&fenceGQ&f
+alseF'/%*separatorGF4/%)stretchyGF4/%*symmetricGF4/%(largeopGF4/%.mova
+blelimitsGF4/%'accentGF4/%'lspaceGQ&0.0emF'/%'rspaceGFC" }}}{EXCHG 
+{PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:-mo(\" \+
+\", mathvariant = \"normal\", fence = \"false\", separator = \"false\"
+, stretchy = \"false\", symmetric = \"false\", largeop = \"false\", mo
+vablelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rspac
+e = \"0.0em\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibG
+F'6#-I#moGF$6-Q\"~F'/%,mathvariantGQ'normalF'/%&fenceGQ&falseF'/%*sepa
+ratorGF4/%)stretchyGF4/%*symmetricGF4/%(largeopGF4/%.movablelimitsGF4/
+%'accentGF4/%'lspaceGQ&0.0emF'/%'rspaceGFC" }}}}
+{MARK "0 0 0" 0 }{VIEWOPTS 1 1 0 106 100 1803 1 1 1 1 }{PAGENUMBERS 0
+ 1 2 33 1 1 }
